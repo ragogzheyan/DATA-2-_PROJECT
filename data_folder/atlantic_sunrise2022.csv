@@ -6,9 +6,9 @@ A00323,Tyree,Mays,217 E 49th St,New York,New York,NY,10017,931-313-9635,931-235-
 A00324,Wendy,Rogers,811 E Westfield Blvd,Indianapolis,Marion,IN,46220,414-661-9598,414-377-2880,None,rogersw@rim.org,00,1230,True,True,False,2,False,2022-1-9
 A00325,Rod,Harper,2645 Brooklyn Ave,Kansas City,Jackson,MO,64127,313-288-7937,313-341-4470,USA,harper_rod@aol.com,00,1090,True,True,False,1,False,2022-1-11
 A00326,Lloyd,Potter,3505 S Valley View Blvd,Las Vegas,Clark,NV,89103,815-828-2147,815-426-5657,USA,potterl@yahoo.com,00,1120,True,True,True,1,False,2022-1-22
-A00327,Kelly,Schroeder,6 S 33rd St,Aston,Delaware,PA,19014,610-545-3615,610-492-4643,None,kellys@hpt.net,00,900,False,True,False,3,True,2022-2-29        
-A00328,Lamon,Stark,378 Greenleaf Ave,San Jose,Santa Clara,CA,95111,408-540-1785,408-813-4592,None,starkla@aol.com,00,1010,True,True,True,3,False,2022-2-29
-A00329,Manual,Stout,618 W Yakima Ave,Irving,Dallas,TX,75062,972-303-9197,972-896-4882,USA,mstouk@hotmail.com,00,930,True,True,False,2,False,2022-2-29
+A00327,Kelly,Schroeder,6 S 33rd St,Aston,Delaware,PA,19014,610-545-3615,610-492-4643,None,kellys@hpt.net,00,900,False,True,False,3,True,2022-2-12        
+A00328,Lamon,Stark,378 Greenleaf Ave,San Jose,Santa Clara,CA,95111,408-540-1785,408-813-4592,None,starkla@aol.com,00,1010,True,True,True,3,False,2022-2-27
+A00329,Manual,Stout,618 W Yakima Ave,Irving,Dallas,TX,75062,972-303-9197,972-896-4882,USA,mstouk@hotmail.com,00,930,True,True,False,2,False,2022-2-18
 A00330,Ella,Elliott,74 S Westgate St,Albany,Albany,NY,12204,518-966-7987,518-448-8982,USA,elliott.el@yahoo.com,00,1000,True,False,True,3,False,2022-2-20
 A00331,Bruce,Jefferson,3273 State St,Middlesex,Middlesex,NJ,08846,732-658-3154,732-635-3453,USA,bruce.j@stp.edu,00,660,True,False,False,2,False,2022-2-9
 A00332,Benjamin,Rivas,276 Central Ave,Stevens Point,Portage,WI,54481,715-662-6764,715-530-9863,None,rivas_ben@hpt.net,00,730,False,True,False,1,False,2022-2-11
@@ -34,7 +34,7 @@ A00338,Wilber,Norris,366 South Dr,Las Cruces,Dona Ana,NM,88011,505-977-3911,505-
 A00339,Casey,Leon,745 E Liberty St,Ridgefield Park,Bergen,NJ,07660,201-709-6245,201-387-9093,USA,leonca@aol.com,00,1460,True,True,False,3,False,2022-2-4
 A00340,Dannie,Henderson,457 Ralph Ct,Dunellen,Middlesex,NJ,08812,732-924-7882,732-782-6701,USA,henderson_dan@yahoo.com,00,930,True,True,True,2,True,2022-2-12
 A00341,Jarvis,York,2742 Distribution Way,New York,New York,NY,10025,212-860-1579,212-753-2740,USA,york_jarvis@gmail.com,00,1400,True,True,False,2,False,2022-2-9
-A00342,Whitney,Washington,426 Wolf St,Metairie,Jefferson,LA,70002,504-979-9175,504-265-8174,None,whitney_washington@hotmail.com,00,760,False,True,True,1,False,2022-2-29
+A00342,Whitney,Washington,426 Wolf St,Metairie,Jefferson,LA,70002,504-979-9175,504-265-8174,None,whitney_washington@hotmail.com,00,760,False,True,True,1,False,2022-2-19
 A00343,Kenton,Carlson,128 Bransten Rd,New York,New York,NY,10011,212-675-8570,212-569-4233,USA,kentonca@yahoo.com,00,1180,True,True,False,2,True,2022-2-2
 A00344,Lela,Barry,617 Morena Blvd,Camarillo,Ventura,CA,93012,805-832-6163,805-609-1531,USA,lela.barry@aol.com,00,1390,True,False,True,1,False,2021-2-27
 A00345,Valentine,Stanton,775 W 17th St,San Antonio,Bexar,TX,78204,210-812-9597,210-300-6244,None,valentines@gmail.com,00,1160,True,True,True,2,False,2021-2-8
@@ -167,7 +167,7 @@ D00465,Salome,Lacovara,9677 Commerce Dr,Richmond,Richmond City,VA,23219,804-550-
 D00466,Garry,Keetch,5 Green Pond Rd #4,Southampton,Bucks,PA,18966,215-979-8776,326-410-5941,USD,garry_keetch@hotmail.com,00,1630,True,True,False,2,False,2022-2-27
 D00467,Matthew,Neither,636 Commerce Dr #42,Shakopee,Scott,MN,55379,952-651-7597,327-777-594,USD,1mneither@yahoo.com,00,820,False,False,False,2,True,2022-2-24
 D00468,Theodora,Restrepo,42744 Hamann Industrial Pky #82,Miami,Miami-Dade,FL,33136,305-936-8226,327-887-4341,USD,theodora.res@restrepo.com,00,1060,True,False,True,2,True,2022-2-12
-D00469,Noah,Kalafatis,1950 5th Ave,Milwaukee,Milwaukee,WI,53209,414-263-5287,660-737-5941,USD,noah.kalafatis@aol.com,00,1220,True,True,False,1,False,2022-2-29
+D00469,Noah,Kalafatis,1950 5th Ave,Milwaukee,Milwaukee,WI,53209,414-263-5287,660-737-5941,USD,noah.kalafatis@aol.com,00,1220,True,True,False,1,False,2022-2-15
 D00470,Carmen,Sweigard,61304 N French Rd,Somerset,Somerset,NJ,08873,732-941-2621,327-33300941,USD,csweigard@sweigard.com,00,1560,True,True,False,1,False,2022-2-4
 D00471,Lavonda,Henges,87 Imperial Ct #79,Fargo,Cass,ND,58102,701-898-2154,327-555-5941,USD,lavonda@cox.net,00,1190,True,False,True,3,True,2022-2-2
 A00451,Edgar,Gallagher,121 Mcmechen St,Baltimore,Baltimore,MD,21210,439-664-8344,645-537-2262,None,edgar_gal@hotmail.com,00,1470,True,True,False,2,False,2022-6-1
