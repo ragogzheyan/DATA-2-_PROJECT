@@ -1,0 +1,502 @@
+invoice_id,first_name,last_name,state,rank_by_state,zip,check_in,bedrooms,weekly_rate,rent_discount,total_sale,sum_total,parking,mgmt_discount,pool_access,repeat_customer,year,currency,address,city,county,customer_phone,personal_email,customer_id
+504-845-1427,Anthony,Zion,FL,46.5,33155,2021-4-4,1,610,0.0,2500,3110.0,False,False,False,False,2021,USD,4795 SW 75th Ave,Miami,Miami-Dade,504-621-8927,ziona@gmail.com,A00001
+810-374-9840,Peter,Montgomery,GA,4.5,30310,2021-4-29,1,1190,0.85,5500,7701.5,True,True,True,True,2021,USD,1163 Metropolitan Pkwy,Atlanta,Fulton,810-292-9388,peter_phine@aol.com,A00002
+336-477-9453,Alia,Lau,TX,3.5,78704,2021-5-28,3,1410,0.0,4500,5910.0,True,False,True,False,2021,USD,208 Barton Springs Rd,Austin,Travis,888-227-1460,laut@yahoo.com,A00003
+719-298-4547,Elvia,Ortiz,MD,7.5,21210,2021-11-16,3,1070,0.85,2500,4479.5,True,True,True,True,2021,USD,732 Deepdene Rd,Baltimore,Baltimore,907-385-4412,ortizE@hotmail.com,A00004
+606-203-9476,Chris,Carter,NC,4.5,28207,2021-11-10,3,1400,0.0,3500,4900.0,True,False,True,True,2021,USD,1361 Queens Rd,Charlotte,Mecklenburg,513-570-1893,chris_carter@hpt.net,A00005
+419-800-6759,Simona,Lee,IL,14.5,60661,2021-10-12,2,660,0.0,6500,7160.0,False,False,True,True,2021,USD,131 N Clinton St,Chicago,Cook,419-503-2484,simona@aol.com,A00006
+773-924-8565,Laura,Tollner,TX,18.5,75235,2021-10-6,3,1200,0.85,6500,8720.0,True,True,True,True,2021,USD,6124 Denton Dr,Dallas,Dallas,773-573-6914,laura_tollner@yahoo.com,A00007
+408-813-1105,Leota,Atari,FL,20.0,33130,2021-2-19,1,1110,0.0,2500,3610.0,True,False,False,False,2021,USD,101 W Flagler St,Miami,Miami-Dade,408-752-3500,leota@hotmail.com,A00008
+605-794-4895,Dan,Wieser,OH,4.5,45229,2021-1-7,3,1210,0.0,5500,6710.0,True,False,True,True,2021,USD,4150 Reading Rd,Cincinnati,Hamilton,605-414-2147,dan_wieser@stp.edu,A00009
+410-804-4694,Kris,Bond,MI,1.5,48214,2021-2-4,2,1410,0.0,2500,3910.0,True,False,True,False,2021,USD,3030 Fairview St,Detroit,Wayne,410-655-8723,kris@gmail.com,A00010
+215-422-8694,Alan,West,TN,6.5,38105,2021-3-2,1,970,0.0,4500,5470.0,False,False,False,False,2021,USD,920 Peach Ave,Memphis,Shelby,215-874-1229,alan_west@hotmail.com,A00011
+631-677-3675,Elena,Stephens,MO,1.5,64111,2021-4-8,2,1280,0.85,5500,7868.0,True,True,True,False,2021,USD,801 Westport Rd,Kansas City,Jackson,631-335-3414,elenas@gmail.com,A00012
+310-254-3084,Sonia,Jarvis,NV,4.5,89129,2021-8-25,1,830,0.0,5500,6330.0,True,False,False,False,2021,USD,9850 W Cheyenne Ave,Las Vegas,Clark,310-498-5651,sonia.jar@aol.com,A00013
+440-579-7763,Emma,Werner,CA,37.0,90006,2021-4-7,1,970,0.0,5500,6470.0,False,False,False,True,2021,USD,2771 W Pico Blvd,Los Angeles,Los Angeles,440-780-8425,wer_emma@hpt.net,A00014
+956-841-7216,Zachary,Mcgrath,TN,9.5,38103,2021-7-28,2,500,0.0,4500,5000.0,True,False,True,True,2021,USD,201 Poplar Ave,Memphis,Shelby,956-537-6195,zacharym@gmail.com,A00015
+602-953-6360,Jay,Mcclain,FL,14.5,33125,2021-11-9,2,1190,0.0,3500,4690.0,True,False,False,False,2021,USD,1881 NW 7th St,Miami,Miami-Dade,602-277-4385,jay.mcciain@aol.com,A00016
+931-235-7959,Tyree,Mays,NY,16.5,10017,2021-4-1,1,1160,0.0,5500,6660.0,True,False,True,False,2021,USD,217 E 49th St,New York,New York,931-313-9635,mayst@hotmail.com,A00017
+414-377-2880,Wendy,Rogers,IN,3.5,46220,2021-3-9,2,1230,0.0,3500,4730.0,True,False,True,False,2021,USD,811 E Westfield Blvd,Indianapolis,Marion,414-661-9598,rogersw@rim.org,A00018
+313-341-4470,Rod,Harper,MO,6.5,64127,2021-9-11,1,1090,0.0,4500,5590.0,True,False,True,False,2021,USD,2645 Brooklyn Ave,Kansas City,Jackson,313-288-7937,harper_rod@aol.com,A00019
+815-426-5657,Lloyd,Potter,NV,1.5,89103,2021-11-22,1,1120,0.0,3500,4620.0,True,False,True,True,2021,USD,3505 S Valley View Blvd,Las Vegas,Clark,815-828-2147,potterl@yahoo.com,A00020
+610-492-4643,Kelly,Schroeder,PA,21.5,19014,2021-8-29,3,900,0.85,6500,8165.0,False,True,True,False,2021,USD,6 S 33rd St,Aston,Delaware,610-545-3615,kellys@hpt.net,A00021
+408-813-4592,Lamon,Stark,CA,34.5,95111,2021-9-29,3,1010,0.0,2500,3510.0,True,False,True,True,2021,USD,378 Greenleaf Ave,San Jose,Santa Clara,408-540-1785,starkla@aol.com,A00022
+972-896-4882,Manual,Stout,TX,29.5,75062,2021-11-29,2,930,0.0,6500,7430.0,True,False,True,False,2021,USD,618 W Yakima Ave,Irving,Dallas,972-303-9197,mstouk@hotmail.com,A00023
+518-448-8982,Ella,Elliott,NY,26.5,12204,2021-8-20,3,1000,0.0,5500,6500.0,True,False,False,True,2021,USD,74 S Westgate St,Albany,Albany,518-966-7987,elliott.el@yahoo.com,A00024
+732-635-3453,Bruce,Jefferson,NJ,32.5,8846,2021-5-9,2,660,0.0,2500,3160.0,True,False,False,False,2021,USD,3273 State St,Middlesex,Middlesex,732-658-3154,bruce.j@stp.edu,A00025
+715-530-9863,Benjamin,Rivas,WI,9.5,54481,2021-1-11,1,730,0.0,2500,3230.0,False,False,True,False,2021,USD, 276 Central Ave,Stevens Point,Portage,715-662-6764,rivas_ben@hpt.net,A00026
+913-899-1103,Kristine,Levine,KS,4.5,66218,2021-10-19,3,1030,0.0,4500,5530.0,True,False,True,False,2021,USD,86 Nw 66th St #8,Shawnee,Johnson,913-388-2079,kristine@qa.org,A00027
+410-235-8738,Graham,Wise,MD,11.5,21601,2021-11-2,1,900,0.0,5500,6400.0,False,False,False,True,2021,USD,923 Cedar Ave #84,Easton,Talbot,410-669-1642,wiseg@aol.com,A00028
+212-934-5167,Mattie,Blackwell,NY,39.5,10011,2021-7-19,2,540,0.0,6500,7040.0,False,False,True,True,2021,USD,9099 Thorburn Ave,New York,New York,212-582-4976,blackwell_mat@yahoo.com,A00029
+936-597-3614,Billie,Webster,TX,8.5,77301,2021-5-2,2,1330,0.0,2500,3830.0,True,False,True,True,2021,USD,386 9th Ave N,Conroe,Montgomery,936-336-3951,websterb@aol.com,A00030
+614-648-3265,Dan,Brandt,OH,6.5,43215,2021-1-1,3,850,0.0,4500,5350.0,False,False,False,True,2021,USD,4874 Atlantic Ave,Columbus,Franklin,614-801-9788,dan.br@hotmail.com,A00031
+505-335-5293,Wilber,Norris,NM,1.5,88011,2021-10-20,3,1240,0.0,5500,6740.0,True,False,False,False,2021,USD,366 South Dr,Las Cruces,Dona Ana,505-977-3911,norrisw@gmail.com,A00032
+201-387-9093,Casey,Leon,NJ,5.0,7660,2021-2-4,3,1460,0.0,2500,3960.0,True,False,True,False,2021,USD,745 E Liberty St,Ridgefield Park,Bergen,201-709-6245,leonca@aol.com,A00033
+732-782-6701,Dannie,Henderson,NJ,16.5,8812,2021-4-12,2,930,0.85,5500,7220.5,True,True,True,True,2021,USD,457 Ralph Ct,Dunellen,Middlesex,732-924-7882,henderson_dan@yahoo.com,A00034
+212-753-2740,Jarvis,York,NY,4.5,10025,2021-8-9,2,1400,0.0,6500,7900.0,True,False,True,False,2021,USD,2742 Distribution Way,New York,New York,212-860-1579,york_jarvis@gmail.com,A00035
+440-579-7763,Emma,Werner,CA,37.0,90006,2021-4-7,1,970,0.0,3500,4470.0,False,False,False,True,2021,USD,2771 W Pico Blvd,Los Angeles,Los Angeles,440-780-8425,wer_emma@hpt.net,A00014
+504-265-8174,Whitney,Washington,LA,5.5,70002,2021-5-29,1,760,0.0,4500,5260.0,False,False,True,True,2021,USD,426 Wolf St,Metairie,Jefferson,504-979-9175,whitney_washington@hotmail.com,A00036
+212-569-4233,Kenton,Carlson,NY,14.0,10011,2021-9-2,2,1180,0.85,3500,5683.0,True,True,True,False,2021,USD,128 Bransten Rd,New York,New York,212-675-8570,kentonca@yahoo.com,A00037
+805-609-1531,Lela,Barry,CA,16.5,93012,2021-5-27,1,1390,0.0,2500,3890.0,True,False,False,True,2021,USD,617 Morena Blvd,Camarillo,Ventura,805-832-6163,lela.barry@aol.com,A00038
+210-300-6244,Valentine,Stanton,TX,20.5,78204,2021-10-8,2,1160,0.0,4500,5660.0,True,False,True,True,2021,USD,775 W 17th St,San Antonio,Bexar,210-812-9597,valentines@gmail.com,A00039
+785-219-7724,Kati,Burch,KS,6.5,67410,2021-10-18,2,950,0.0,4500,5450.0,False,False,False,False,2021,USD,6980 Dorsett Rd,Abilene,Dickinson,785-463-7829,kati.bu@hotmail.com,A00040
+541-993-2611,Youlanda,Schemmer,OR,5.5,97754,2021-2-6,1,560,0.85,3500,4536.0,True,True,False,False,2021,USD,2881 Lewis Rd,Prineville,Crook,541-548-8197,youlanda@aol.com,A00041
+913-645-8918,Dyan,Oldroyd,KS,1.5,66204,2021-5-2,1,1380,0.0,2500,3880.0,True,False,False,False,2021,USD,7219 Woodfield Rd,Overland Park,Johnson,913-413-4604,doldroyd@aol.com,A00042
+907-335-6568,Roxane,Campain,AK,1.5,99708,2021-1-22,3,1170,0.0,3500,4670.0,True,False,True,False,2021,USD,1048 Main St,Fairbanks,North Star,907-231-4722,campain_r@hotmail.com,A00043
+305-995-2078,Lavera,Perin,FL,43.5,33196,2021-7-11,2,700,0.0,3500,4200.0,True,False,True,True,2021,USD,678 3rd Ave,Miami,Miami-Dade,305-606-7291,lperin@perin.org,A00044
+907-227-6777,Erick,Ferencz,AK,7.5,99712,2021-2-22,3,820,0.85,2500,4017.0,False,True,False,True,2021,USD,920 S Babcock St,Fairbanks,North Star,907-741-1044,campain@aol.com,A00045
+952-479-2375,Fatima,Saylors,MN,1.5,55343,2021-7-4,2,1430,0.85,2500,5145.5,True,True,False,False,2021,USD,743 Lighthouse Ave,Hopkins,Hennepin,952-768-2416,fsaylors@saylors.org,A00046
+617-997-5771,Jina,Briddick,MA,9.5,2128,2021-3-12,2,560,0.0,4500,5060.0,True,False,True,False,2021,USD,8938 Park Blvd,Boston,Suffolk,617-399-5124,jina_briddick@briddick.com,A00047
+323-315-7314,Kanisha,Waycott,CA,27.0,90006,2021-7-11,3,1160,0.0,3500,4660.0,True,False,True,True,2021,USD,Tomahawk Dr,Los Angeles,Los Angeles,323-453-2780,kanisha_waycott@yahoo.com,A00048
+608-658-7940,Emerson,Bowley,WI,5.5,53711,2021-2-19,2,1050,0.0,2500,3550.0,True,False,True,False,2021,USD,762 S Main St,Madison,Dane,608-336-7444,emerson.bowley@bowley.org,A00049
+215-794-4519,Blair,Malet,PA,17.0,19132,2021-7-21,1,1020,0.0,6500,7520.0,True,False,True,False,2021,USD,209 Decker Dr,Philadelphia,Philadelphia,215-907-9111,bmalet@yahoo.com8,A00050
+212-617-5063,Brock,Bolognia,NY,35.5,10003,2021-1-9,3,710,0.0,5500,6210.0,True,False,True,True,2021,USD,4486 East Coast St,New York,New York,212-402-9216,bbolognia@yahoo.com,A00051
+931-303-6041,Lorrie,Nestle,TN,2.5,37388,2021-9-19,3,1120,0.85,6500,8572.0,True,True,True,True,2021,USD,39 S 7th St,Tullahoma,Coffee,931-875-6644,lnestle@hotmail.com,A00052
+803-681-3678,Sabra,Uyetake,SC,2.5,29201,2021-11-15,1,1040,0.0,6500,7540.0,True,False,False,True,2021,USD,8839 Hawthorne Blvd,Columbia,Richland,803-925-5213,sabra@uyetake.org,A00053
+610-379-7125,Marjory,Mastella,PA,13.5,19087,2021-4-24,1,1150,0.85,3500,5627.5,True,True,False,False,2021,USD,971 San Mateo Ave,Wayne,Delaware,610-814-5533,mmastella@mastella.com,A00054
+908-470-4661,Karl,Klonowski,NJ,35.5,8822,2021-6-3,1,610,0.0,4500,5110.0,False,False,False,True,2021,USD,76 Brooks St,Flemington,Hunterdon,908-877-6135,karl_klonowski@yahoo.com,A00055
+516-333-4861,Tonette,Wenner,NY,33.5,11590,2021-4-27,2,730,0.0,5500,6230.0,False,False,False,True,2021,USD,4545 Courthouse Rd,Westbury,Nassau,516-968-6051,twenner@aol.com,A00056
+215-329-6386,Amber,Monarrez,PA,7.5,19046,2021-4-2,3,1420,0.0,3500,4920.0,True,False,False,True,2021,USD,1928 Foster Ave,Jenkintown,Montgomery,215-934-8655,amber_monarrez@monarrez.org,A00057
+818-749-8650,Shenika,Seewald,CA,56.5,91405,2021-4-2,2,720,0.85,4500,5832.0,False,True,False,True,2021,USD,78 Otis St,Van Nuys,Los Angeles,818-423-4007,shenika@gmail.com,A00058
+401-559-8961,Arthur,Thomas,RI,1.5,2909,2021-3-3,2,920,0.85,3500,5202.0,True,True,True,True,2021,USD,6589 S 16th St,Providence,Providence,401-458-2547,arthur_thomas@hotmail.com,A00059
+215-417-9563,George,Carter,PA,23.5,19006,2021-4-19,1,840,0.85,6500,8054.0,True,True,True,False,2021,USD,1430 Pennsylvania Ave,Huntingdon Valley,Montgomery,215-211-9589,george_carter@gmail.com,A00060
+401-300-8122,Oliver,Gray,RI,3.5,2904,2021-4-11,3,860,0.0,2500,3360.0,True,False,True,True,2021,USD,201 Hawk Ct,Providence,Providence,401-960-8259,oliver.gray@aol.com,A00061
+732-904-2931,Jamal,Schultz,NJ,22.0,8831,2021-5-4,2,890,0.0,4500,5390.0,False,False,True,True,2021,USD,3075 Sw 152nd Ter,Monroe Township,Middlesex,732-234-1546,jamalsc@vanausdal.org,A00062
+512-861-3814,Cecily,Hollack,TX,31.5,78731,2021-8-3,3,920,0.0,3500,4420.0,False,False,True,True,2021,USD,859 N Groesbeck Hwy,Austin,Travis,512-486-3817,cecily@hollack.org,A00063
+303-874-5160,Carmelina,Lindall,CO,6.5,80126,2021-11-27,3,770,0.0,6500,7270.0,False,False,True,True,2021,USD,2664 Lewis Rd,Littleton,Douglas,303-724-7371,carmelina_lindall@lindall.com,A00064
+414-573-7719,Maurine,Yglesias,WI,2.5,53214,2021-9-4,3,1180,0.0,2500,3680.0,True,False,True,False,2021,USD,59 Shardy Ln,Milwaukee,Milwaukee,414-748-1374,maurine_yglesias@yglesias.com,A00065
+212-462-9157,Tawna,Buvens,NY,7.5,10009,2021-8-13,1,1380,0.0,6500,7880.0,True,False,True,True,2021,USD,3305 Nabell Ave,New York,New York,212-674-9610,tawna@gmail.com,A00066
+907-873-2882,Penney,Weight,AK,5.5,99515,2021-5-15,1,890,0.0,5500,6390.0,True,False,True,False,2021,USD,18 Fountain St,Anchorage,Anchorage,907-797-9628,penney_weight@aol.com,A00067
+814-420-3553,Elly,Morocco,PA,19.5,16502,2021-3-24,1,950,0.85,5500,7257.5,True,True,False,False,2021,USD,97 W 32nd St,Erie,Erie,814-393-5571,elly_morocco@gmail.com,A00068
+410-937-4543,Ilene,Robinson,MD,14.5,21215,2021-2-8,1,700,0.0,6500,7200.0,True,False,False,True,2021,USD,2853 Kains Ave,Baltimore,Baltimore City,410-914-9018,robinsonil@ hotmail.com,A00069
+208-737-8439,Vallie,Mondella,ID,2.5,83707,2021-7-21,1,1410,0.0,3500,4910.0,True,False,True,True,2021,USD,74 W College St,Boise,Ada,208-862-5339,vmondella@mondella.com,A00070
+415-604-7609,Kallie,Blackwood,CA,3.5,94104,2021-7-20,2,1490,0.0,6500,7990.0,True,False,True,False,2021,USD,701 S Harrison Rd,San Francisco,San Francisco,415-315-2761,kallie.blackwood@gmail.com,A00071
+919-715-3791,Johnetta,Abdallah,NC,10.5,27514,2021-7-14,3,1040,0.85,4500,6424.0,True,True,False,False,2021,USD,1088 Pinehurst St,Chapel Hill,Orange,919-225-9345,johnetta_abdallah@aol.com,A00072
+650-811-9032,Bobbye,Smits,CA,39.5,94070,2021-2-21,3,940,0.0,2500,3440.0,False,False,False,False,2021,USD,30 W 80th St #1995,San Carlos,San Mateo,650-528-5783,bobbye.s@yahoo.com,A00073
+925-522-779,Micaela,Rhymes,CA,56.5,94520,2021-4-3,1,720,0.0,5500,6220.0,True,False,True,False,2021,USD,932 Hedley St,Concord,Contra Costa,925-647-3298,rhymes@gmail.com,A00074
+456-794-4519,Jim,Malet,PA,29.5,19132,2021-11-17,2,640,0.85,2500,3684.0,False,True,False,False,2021,USD,309 Decker Dr,Philadelphia,Philadelphia,456-907-9111,jim_malet@yahoo.com,A00075
+740-526-5410,Tamar,Hoogland,OH,14.5,43140,2021-3-14,2,640,0.0,4500,5140.0,False,False,True,True,2021,USD,2737 Pistorio Rd #9230,London,Madison,740-343-8575,tamar@hotmail.com,A00076
+585-498-4278,Luna,Ambelang,NY,22.5,14895,2021-3-4,1,1030,0.0,3500,4530.0,True,False,True,True,2021,USD,4989 Brandon St,Wellsville,Allegany,585-866-8313,luna_amb@yahoo.com,A00077
+410-957-6903,Laurel,Reitler,MD,16.5,21215,2021-8-17,1,640,0.0,5500,6140.0,False,False,False,False,2021,USD,984 Kains Ave,Baltimore,Baltimore City,410-520-4832,laurel_reitler@reitler.com,A00078
+973-847-9611,Delisa,Crupi,NJ,32.5,7105,2021-9-15,1,660,0.0,6500,7160.0,True,False,True,True,2021,USD,7565 W Grand Ave,Newark,Essex,973-354-2040,delisa.crupi@crupi.com,A00079
+773-352-3437,Viva,Toelkes,IL,3.0,60647,2021-11-9,3,1420,0.85,2500,5127.0,True,True,True,True,2021,USD,4284 Dorigo Ln,Chicago,Cook,773-446-5569,viva.toelkes@gmail.com,A00080
+973-796-3667,Elza,Lipke,NJ,19.0,7104,2021-5-18,3,910,0.0,4500,5410.0,False,False,True,False,2021,USD,6794 Lake Dr E,Newark,Essex,973-927-3447,elza@yahoo.com,A00081
+505-950-1763,Devorah,Garrison,NM,3.5,88101,2021-8-7,1,690,0.85,6500,7776.5,False,True,True,True,2021,USD,31 Douglas Blvd #950,Clovis,Curry,505-975-8559,devorah@hotmail.com,A00082
+718-654-7063,Timothy,Mulqueen,NY,37.5,10309,2021-4-29,3,690,0.0,4500,5190.0,True,False,True,True,2021,USD,44 W 4th St,Staten Island,Richmond,718-332-6527,timothy_mulqueen@mulqueen.org,A00083
+904-514-9918,Arlette,Honeywell,FL,3.0,32254,2021-10-10,1,1470,0.0,4500,5970.0,True,False,False,True,2021,USD,11279 Loytan St,Jacksonville,Duval,904-775-4480,ahoneywell@honeywell.com,A00084
+510-901-7640,Dominque,Dickerson,CA,30.0,94545,2021-5-9,3,1140,0.0,2500,3640.0,True,False,True,True,2021,USD,69 Marquette Ave,Hayward,Alameda,510-993-3758,dominque.dickerson@dickerson.org,A00085
+216-733-8494,Lettie,Isenhower,OH,10.5,44122,2021-4-9,3,700,0.0,6500,7200.0,True,False,True,False,2021,USD,70 W Main St,Beachwood,Cuyahoga,216-657-7668,lettie_isenhower@yahoo.com,A00086
+817-451-3518,Myra,Munns,TX,26.5,76040,2021-7-20,1,1000,0.0,2500,3500.0,True,False,False,False,2021,USD,461 Prospect Pl #316,Euless,Tarrant,817-914-7518,mmunns@cox.net,A00087
+310-968-1219,Stephaine,Barfield,CA,62.5,90247,2021-8-14,2,650,0.0,4500,5150.0,False,False,True,True,2021,USD,47154 Whipple Ave Nw,Gardena,Los Angeles,310-774-7643,stephaine@barfield.com,A00088
+847-957-4614,Lai,Gato,IL,7.5,60201,2021-6-26,3,1100,0.85,4500,6535.0,True,True,False,True,2021,USD,37 Alabama Ave,Evanston,Cook,847-728-7286,lai.gato@gato.org,A00089
+330-700-2312,Stephen,Emigh,OH,1.5,44302,2021-4-16,1,1450,0.0,4500,5950.0,True,False,False,True,2021,USD,3777 E Richmond St #900,Akron,Summit,330-537-5358,stephen_emigh@hotmail.com,A00090
+215-228-8264,Tyra,Shields,PA,5.5,19106,2021-9-25,2,1450,0.0,5500,6950.0,True,False,False,True,2021,USD,562 Fort Worth Ave,Philadelphia,Philadelphia,215-255-1641,tshields@gmail.com,A00091
+650-216-5075,Tammara,Wardrip,CA,3.5,94010,2021-2-18,2,1490,0.0,5500,6990.0,True,False,False,False,2021,USD,4800 Black Horse Pike,Burlingame,San Mateo,650-803-1936,twardrip@cox.net,A00092
+626-696-2777,Cory,Gibes,CA,51.5,91776,2021-5-13,1,770,0.0,4500,5270.0,True,False,True,False,2021,USD,836 W Belmont Ave,San Gabriel,Los Angeles,626-572-1096,cory_gibes@gmail.com,A00093
+254-205-1422,Danica,Bruschke,TX,11.5,76708,2021-8-18,1,1300,0.0,2500,3800.0,True,False,False,False,2021,USD,840 15th Ave,Waco,McLennan,254-782-8569,danica_bruschke@gmail.com,A00094
+907-914-9482,Wilda,Giguere,AK,3.5,99501,2021-4-17,1,1140,0.85,5500,7609.0,True,True,False,True,2021,USD,1747 Calle Amanecer #2,Anchorage,Anchorage,907-870-5536,wilda@cox.net,A00095
+408-440-8447,Elvera,Benimadho,CA,11.5,95110,2021-4-5,1,1420,0.0,5500,6920.0,True,False,False,True,2021,USD,9385 Charity St #840,San Jose,Santa Clara,408-703-8505,elvera.benimadho@cox.net,A00096
+510-452-4835,Carma,Vanheusen,CA,8.5,94577,2021-2-8,1,1430,0.0,6500,7930.0,True,False,False,False,2021,USD,8556 Central Hwy,San Leandro,Alameda,510-503-7169,carma@cox.net,A00097
+317-472-2412,Malinda,Hochard,IN,1.5,46202,2021-7-22,3,1310,0.0,5500,6810.0,True,False,True,False,2021,USD,955 Riverside Ave,Indianapolis,Marion,317-722-5066,malinda.hochard@yahoo.com,A00098
+307-279-3793,Natalie,Fern,WY,2.5,82901,2021-3-10,1,1090,0.85,5500,7516.5,True,True,False,False,2021,USD,7140 University Ave,Rock Springs,Sweetwater,307-704-8713,natalie.fern@hotmail.com,A00099
+703-475-7568,Lisha,Centini,VA,2.5,22102,2021-4-5,3,1120,0.0,5500,6620.0,True,False,True,True,2021,USD,64 5th Ave #1153,Mc Lean,Fairfax,703-235-3937,lisha@centini.org,A00100
+504-946-1807,Arlene,Klusman,LA,1.5,70112,2021-3-21,2,1440,0.85,5500,8164.0,True,True,False,False,2021,USD,483 Secor Rd,New Orleans,Orleans,504-710-5840,arlene_klusman@gmail.com,A00101
+303-521-9860,Alease,Buemi,CO,3.0,80303,2021-11-23,3,1300,0.0,3500,4800.0,True,False,False,False,2021,USD,952 Webbs Chapel Rd,Boulder,Boulder,303-301-4946,alease@buemi.com,A00102
+510-472-7758,Louisa,Cronauer,CA,42.0,94577,2021-6-19,1,930,0.0,4500,5430.0,True,False,True,True,2021,USD,524 Louisiana Ave Nw,San Leandro,Alameda,510-828-7047,louisa@cronauer.com,A00103
+808-475-2310,Angella,Cetta,HI,5.5,96817,2021-3-10,2,690,0.0,5500,6190.0,True,False,True,True,2021,USD,185 Blackstone Bldge,Honolulu,Honolulu,808-892-7943,angella.cetta@hotmail.com,A00104
+952-938-9457,Cyndy,Goldammer,MN,5.5,55337,2021-9-15,3,1150,0.85,3500,5627.5,True,True,True,True,2021,USD,170 Wyoming Ave,Burnsville,Dakota,952-334-9408,cgoldammer@cox.net,A00105
+336-497-4407,Rosio,Cork,NC,7.5,27263,2021-11-20,3,1270,0.0,4500,5770.0,True,False,True,True,2021,USD,10th St W,High Point,Guilford,336-243-5659,rosio.cork@gmail.com,A00106
+516-365-7266,Celeste,Korando,NY,29.0,11563,2021-3-25,1,920,0.0,4500,5420.0,False,False,False,True,2021,USD,854 W Pinhook Rd,Lynbrook,Nassau,516-509-2347,ckorando@hotmail.com,A00107
+503-909-7167,Twana,Felger,OR,7.5,97224,2021-2-18,3,540,0.0,2500,3040.0,True,False,True,False,2021,USD,274 Commerce Way,Portland,Washington,503-939-3153,twana.felger@felger.org,A00108
+608-942-8836,Estrella,Samu,WI,7.5,53511,2021-5-1,2,960,0.0,4500,5460.0,True,False,False,False,2021,USD,64 Lakeview Ave,Beloit,Rock,608-976-7199,estrella@aol.com,A00109
+508-843-1426,Donte,Kines,MA,6.5,1602,2021-6-6,3,890,0.0,3500,4390.0,False,False,True,False,2021,USD,764 Aspen St,Worcester,Worcester,508-429-8576,dkines@hotmail.com,A00110
+305-304-6573,Tiffiny,Steffens,FL,36.5,33133,2021-11-21,2,840,0.85,5500,7054.0,True,True,True,False,2021,USD,32860 Sierra Rd,Miami,Miami-Dade,305-385-9695,tiffiny_steffens@cox.net,A00111
+814-299-2877,Edna,Micel,PA,26.5,16502,2021-5-23,1,740,0.0,2500,3240.0,False,False,False,True,2021,USD,555 Main St,Erie,Erie,814-460-2655,emiceli@miceli.org,A00112
+972-742-4000,Sue,Kownacki,TX,23.0,75149,2021-8-19,1,1100,0.0,5500,6600.0,True,False,False,True,2021,USD,654 Se 3rd Ave,Mesquite,Dallas,972-666-3413,sue.kow@aol.com,A00113
+931-739-1551,Jenna,Shin,MO,10.5,63103,2021-8-18,1,700,0.85,6500,7795.0,True,True,False,False,2021,USD,1415 Olive St,Saint Louis,Saint Louis,931-273-8709,jenna_shin@shin.com,A00114
+973-284-4048,Rolland,Francescon,NJ,2.5,7501,2021-8-29,1,1490,0.85,6500,9256.5,True,True,True,False,2021,USD,2726 Charcot Ave,Paterson,Passaic,973-649-2922,rolland@cox.net,A00115
+305-575-8481,Pamella,Schmierer,FL,3.0,33030,2021-2-16,3,1470,0.0,4500,5970.0,True,False,False,False,2021,USD,5161 Dorsett Rd,Homestead,Miami-Dade,305-420-8970,pamella.schmierer@scr.org,A00116
+410-916-8015,Glory,Kulzer,MD,5.5,21117,2021-11-18,2,1200,0.85,3500,5720.0,True,True,False,False,2021,USD,55892 Jacksonville Rd,Owings Mills,Baltimore,410-224-9462,gkulzer@kulzer.org,A00117
+805-638-6617,Shawna,Palaspas,CA,14.0,91362,2021-1-10,1,1410,0.0,2500,3910.0,True,False,True,False,2021,USD,732 N Cleveland Massillon Rd,Thousand Oaks,Ventura,805-275-3566,shawna_palaspas@hotmail.com,A00118
+808-240-5168,Brandon,Callaro,HI,3.5,96819,2021-5-6,1,830,0.0,6500,7330.0,True,False,False,True,2021,USD,964 Benton Dr,Honolulu,Honolulu,808-215-6832,brandon_callaro@hotmail.com,A00119
+229-365-9658,Scarlet,Cartan,GA,1.5,31701,2021-4-22,3,1450,0.0,5500,6950.0,True,False,False,True,2021,USD,939 S Howell Ave,Albany,Dougherty,229-735-3378,scarlet_cartan@yahoo.com,A00120
+617-697-6024,Oretha,Menter,MA,2.5,2210,2021-6-10,3,1090,0.0,4500,5590.0,True,False,False,True,2021,USD,835 County Center Dr #647,Boston,Suffolk,617-418-5043,oretha_menter@yahoo.com,A00121
+201-995-3149,Tessa,Smith,NJ,28.5,7601,2021-4-15,3,690,0.85,4500,5776.5,False,True,False,True,2021,USD,4646 Kaahumanu St,Hackensack,Bergen,201-672-1553,tsmith@aol.com,A00122
+650-247-2625,Xuan,Rochin,CA,19.5,94403,2021-1-25,1,1370,0.0,3500,4870.0,True,False,False,False,2021,USD,840 Monroe St,San Mateo,San Mateo,650-933-5072,xuan@gmail.com,A00123
+909-589-1693,Lindsey,Dilello,CA,60.5,91761,2021-6-8,1,660,0.0,3500,4160.0,False,False,False,False,2021,USD,2777 Leaders Heights Rd,Ontario,San Bernardino,909-639-9887,lindsey.dilello@hotmail.com,A00124
+510-755-9274,Devora,Perez,CA,44.0,94606,2021-8-10,3,920,0.85,5500,7202.0,False,True,False,False,2021,USD,2868 Blackington Ave,Oakland,Alameda,510-955-3016,devora_perez@perez.org,A00125
+518-931-7852,Herman,Demesa,NY,22.5,12180,2021-10-8,2,1030,0.85,2500,4405.5,True,True,False,False,2021,USD,24 Norristown Rd,Troy,Rensselaer,518-497-2940,hdemesa@cox.net,A00126
+570-469-8401,Rory,Pierce,PA,3.5,18411,2021-6-18,2,1470,0.85,3500,6219.5,True,True,True,False,2021,USD,83 County Road 437 #8581,Clarks Summit,Lackawanna,570-867-7489,rpierce@cox.net,A00127
+973-818-9788,Talia,Ford,NJ,11.0,7050,2021-4-29,1,1280,0.85,4500,6868.0,True,True,False,True,2021,USD,463 N Harlem Ave #9,Orange,Essex,973-245-2133,talia_ford@aol.com,A00128
+908-448-1209,Angelia,Shire,NJ,30.0,8867,2021-4-24,1,670,0.0,5500,6170.0,True,False,False,True,2021,USD,9131 J St,Pittstown,Hunterdon,908-409-2890,angelia.shire@shire.com,A00129
+321-632-4668,Lucina,Lary,FL,12.5,32922,2021-6-27,1,1210,0.0,5500,6710.0,True,False,False,False,2021,USD,8597 W National Ave,Cocoa,Brevard,321-749-4981,lucina_lary@cox.net,A00130
+718-478-8568,Bella,Isaacs,NY,22.5,10468,2021-10-17,3,1030,0.85,2500,4405.5,True,True,True,False,2021,USD,897 Gilson St,Bronx,Bronx,718-809-3762,bella.isaacs@aol.com,A00131
+326-696-2777,Rory,Gibes,CA,64.0,91776,2021-3-3,3,630,0.0,4500,5130.0,True,False,True,False,2021,USD,649 W Belmont Ave,San Gabriel,Los Angeles,326-572-1096,rory_gibes@gmail.com,A00132
+808-526-5863,Rolande,Spickerman,HI,1.0,96782,2021-2-22,1,1140,0.0,3500,4640.0,True,False,False,False,2021,USD,65 W Maple Ave,Pearl City,Honolulu,808-315-3077,rolande.spickerman@aol.com,A00133
+303-692-3118,Howard,Paulas,CO,9.0,80231,2021-10-28,2,530,0.85,6500,7480.5,True,True,False,True,2021,USD,866 34th Ave,Denver,Denver,303-623-4241,hpaulas@gmail.com,A00134
+973-225-6259,Kimbery,Madarang,NJ,10.0,7866,2021-2-14,3,1340,0.85,4500,6979.0,True,True,True,True,2021,USD,798 Lund Farm Way,Rockaway,Morris,973-310-1634,kimbery_madarang@cox.net,A00135
+609-234-8376,Thurman,Manno,NJ,12.0,8201,2021-7-2,1,1240,0.0,2500,3740.0,True,False,False,True,2021,USD,9387 Charcot Ave,Absecon,Atlantic,609-524-3586,thurman.manno@yahoo.com,A00136
+908-426-8272,Becky,Eldridge,NJ,7.0,7062,2021-2-1,1,1450,0.85,3500,6182.5,True,True,False,False,2021,USD,30553 Washington Rd,Plainfield,Union,908-877-8409,becky_eldridge@mirafuentes.com,A00137
+508-315-3867,Beatriz,Corrington,MA,8.0,2346,2021-2-6,2,660,0.0,3500,4160.0,False,False,True,False,2021,USD,481 W Lemon St,Middleboro,Plymouth,508-584-4279,beatriz@yahoo.com,A00138
+773-539-1058,Marti,Maybury,IL,5.0,60638,2021-1-8,2,1310,0.85,6500,8923.5,True,True,False,True,2021,USD,90 Warehouse Point Rd #7,Chicago,Cook,773-775-4522,marti.maybury@yahoo.com,A00139
+503-455-3094,Nieves,Gotter,OR,2.0,97202,2021-3-5,3,920,0.0,5500,6420.0,True,False,False,True,2021,USD,4940 Pulaski Park Dr,Portland,Multnomah,503-527-5274,nieves_gotter@gmail.com,A00140
+214-225-5850,Leatha,Hagele,TX,34.5,75227,2021-11-14,1,820,0.0,5500,6320.0,True,False,True,True,2021,USD,627 Walford Ave,Dallas,Dallas,214-339-1809,lhagele@cox.net,A00141
+312-512-2338,Valentin,Klimek,IL,18.0,60604,2021-4-6,1,530,0.0,5500,6030.0,True,False,True,False,2021,USD,137 Pioneer Way,Chicago,Cook,312-303-5453,vklimek@klimek.org,A00142
+419-254-4591,Melissa,Wiklund,OH,8.0,45840,2021-1-19,3,840,0.0,5500,6340.0,True,False,True,True,2021,USD,912 Stoneridge #835,Findlay,Hancock,419-939-3613,melissa@cox.net,A00143
+951-248-6822,Sheridan,Zane,CA,22.0,92501,2021-8-13,1,1290,0.0,4500,5790.0,True,False,False,True,2021,USD,2409 Alabama Rd,Riverside,Riverside,951-645-3605,sheridan.zane@zane.com,A00144
+254-816-8417,Kim,David,TX,14.0,76707,2021-10-8,1,1280,0.0,5500,6780.0,True,False,False,False,2021,USD,8927 Vandever Ave,Waco,McLennan,254-463-4368,kim_david@hotmail.com,A00145
+615-448-9249,Audra,Kohnert,TN,8.0,37211,2021-5-17,3,730,0.0,4500,5230.0,False,False,True,True,2021,USD,134 Lewis Rd,Nashville,Davidson,615-406-7854,audra@kohnert.com,A00146
+345-279-3793,Jenna,Fern,WY,1.0,82901,2021-9-28,1,1210,0.85,3500,5738.5,True,True,False,False,2021,USD,457 University Ave,Rock Springs,Sweetwater,345-704-8713,jenna.fern@hotmail.com,A00147
+414-838-3151,Daren,Weirather,WI,4.0,53216,2021-8-24,2,1170,0.0,3500,4670.0,True,False,True,False,2021,USD,35 N College Ave #3,Milwaukee,Milwaukee,414-959-2540,dweirather@aol.com,A00148
+410-724-6472,Fernanda,Jillson,MD,4.0,21655,2021-5-9,1,1430,0.85,5500,8145.5,True,True,False,True,2021,USD,60480 Old Us Highway 51,Preston,Caroline,410-387-5260,fjillson@aol.com,A00149
+972-821-7118,Gearldine,Gellinger,TX,23.0,75061,2021-3-21,1,1100,0.0,2500,3600.0,True,False,False,False,2021,USD,39 Bloomfield Ave,Irving,Dallas,972-934-6914,gellinger@gellinger.com,A00150
+310-969-7230,Chau,Kitzman,CA,21.0,90212,2021-10-11,1,1300,0.0,3500,4800.0,True,False,True,True,2021,USD,429 Tiger Ln,Beverly Hills,Los Angeles,310-560-8022,chau@gmail.com,A00151
+516-357-3362,Theola,Frey,NY,1.0,11758,2021-7-15,2,1490,0.0,4500,5990.0,True,False,True,False,2021,USD,4169 N Main St,Massapequa,Nassau,516-948-5768,theola_frey@frey.com,A00152
+609-263-9243,Cheryl,Haroldson,NJ,8.5,8401,2021-10-16,1,1430,0.0,4500,5930.0,True,False,False,True,2021,USD,92 Main St,Atlantic City,Atlantic,609-518-7697,cheryl@haroldson.org,A00153
+513-418-1566,Laticia,Merced,OH,12.0,45203,2021-11-1,2,690,0.0,4500,5190.0,True,False,False,False,2021,USD,72 Mannix Dr,Cincinnati,Hamilton,513-508-7371,lmerced@gmail.com,A00154
+541-801-5717,Carissa,Batman,OR,1.0,97401,2021-1-14,2,1420,0.0,5500,6920.0,True,False,False,False,2021,USD,2270 Caton Center Dr,Eugene,Lane,541-326-4074,carissa.batman@yahoo.com,A00155
+919-885-2453,Lezlie,Navaro,NC,9.0,27577,2021-4-7,3,1100,0.85,2500,4535.0,True,True,False,False,2021,USD,749 W 18th St #45,Smithfield,Johnston,919-533-3762,lezlie_navaro@aol.com,A00156
+212-880-8865,Ozell,Shealy,NY,11.5,10002,2021-7-24,2,1220,0.85,4500,6757.0,True,True,True,True,2021,USD,812 Industry Ln,New York,New York,212-332-8435,oshealy@hotmail.com,A00157
+602-277-3025,Arminda,Parvis,AZ,1.0,85017,2021-4-15,2,1430,0.0,2500,3930.0,True,False,True,True,2021,USD,521 Huntwood Ave,Phoenix,Maricopa,602-906-9419,arminda@hotmail.com,A00158
+317-787-5514,Reita,Leto,IN,8.0,46240,2021-1-25,3,740,0.0,6500,7240.0,False,False,False,False,2021,USD,5262 N French Rd,Indianapolis,Marion,317-234-1135,reita.leto@gmail.com,A00159
+315-640-6357,Yolando,Luczki,NY,3.0,13214,2021-10-23,2,1470,0.0,3500,4970.0,True,False,False,False,2021,USD,422 E 21st St,Syracuse,Onondaga,315-304-4759,yolando@cox.net,A00160
+856-702-3676,Lizette,Stem,NJ,22.0,8002,2021-1-1,1,890,0.85,6500,8146.5,True,True,False,False,2021,USD,501 N 19th Ave,Cherry Hill,Camden,856-487-5412,lizette.stem@aol.com,A00161
+516-376-4230,Gregoria,Pawalo,NY,18.0,11530,2021-3-5,2,1120,0.85,2500,4572.0,True,True,True,True,2021,USD,455 N Main Ave,Garden City,Nassau,516-212-1915,gpawalo@yahoo.com,A00162
+501-409-6072,Carin,Deleo,AR,1.0,72202,2021-5-22,3,950,0.85,4500,6257.5,True,True,True,True,2021,USD,1844 Southern Blvd,Little Rock,Pulaski,501-308-1040,cdeleo@deleo.com,A00163
+651-776-9688,Chantell,Katz,MN,8.0,55101,2021-8-21,3,870,0.0,5500,6370.0,True,False,False,True,2021,USD,2023 Greg St,Saint Paul,Ramsey,651-591-2583,katzch@yahoo.com,A00164
+215-346-4666,Dierdre,King,PA,17.0,19134,2021-10-16,3,1020,0.0,5500,6520.0,True,False,False,False,2021,USD,63381 Jenks Ave,Philadelphia,Philadelphia,215-325-3042,king.d@yahoo.com,A00165
+985-261-5783,Larae,Gudroe,LA,7.0,70360,2021-5-20,1,510,0.0,4500,5010.0,False,False,True,True,2021,USD,651 Municipal Rd,Houma,Terrebonne,985-890-7262,larae_gudroe@gmail.com,A00166
+631-998-2102,Latrice,Van,NY,41.0,11779,2021-2-25,1,500,0.0,2500,3000.0,True,False,False,False,2021,USD,481 Norris Ave #525,Ronkonkoma,Suffolk,631-957-7624,latrice_van@hotmail.com,A00167
+916-770-7448,Kerry,Nelson,CA,33.0,95827,2021-1-22,2,1100,0.85,2500,4535.0,True,True,False,True,2021,USD,6916 W Main St,Sacramento,Sacramento,916-591-3277,kerry.nelson@gmail.com,A00168
+208-690-3315,Dorthy,Poletto,ID,1.0,83704,2021-9-18,1,1470,0.0,6500,7970.0,True,False,True,True,2021,USD,9635 S Main St,Boise,Ada,208-649-2373,dorthy_poletto@yahoo.com,A00169
+512-528-9933,Fannie,Lungren,TX,33.0,78664,2021-7-15,1,830,0.85,6500,8035.5,True,True,False,False,2021,USD,237 Coldwell St,Round Rock,Williamson,512-587-5746,fannie.lungren@yahoo.com,A00170
+215-417-5612,Evangelina,Radde,PA,3.5,19123,2021-2-28,1,1470,0.0,4500,5970.0,True,False,True,True,2021,USD,992 Civic Center Dr,Philadelphia,Philadelphia,215-964-3284,evangelina@aol.com,A00171
+808-746-1865,Novella,Degroot,HI,2.0,96720,2021-8-20,3,1060,0.0,6500,7560.0,True,False,False,False,2021,USD,303 N Radcliffe St,Hilo,Hawaii,808-477-4775,novella_degroot@degroot.org,A00172
+775-848-9135,Clay,Hoa,NV,3.0,89502,2021-1-26,3,850,0.85,3500,5072.5,False,True,False,False,2021,USD,73 Saint Ann St #86,Reno,Washoe,775-501-8109,choa@hoa.org,A00173
+847-800-3054,Jennifer,Fallick,IL,3.0,60090,2021-2-11,3,1420,0.0,3500,4920.0,True,False,True,True,2021,USD,44 58th St,Wheeling,Cook,847-979-9545,jfallick@yahoo.com,A00174
+973-868-8660,Irma,Wolfgramm,NJ,37.0,7869,2021-10-27,3,580,0.85,5500,6573.0,True,True,True,True,2021,USD,9745 W Main St,Randolph,Morris,973-545-7355,irma.wolfgramm@hotmail.com,A00175
+864-594-4578,Eun,Coody,SC,1.0,29301,2021-1-20,1,1420,0.0,4500,5920.0,True,False,False,False,2021,USD,84 Bloomfield Ave,Spartanburg,Spartanburg,864-256-3620,eun@yahoo.com,A00176
+410-863-8263,Sylvia,Berg,MD,13.0,21074,2021-11-12,3,800,0.0,3500,4300.0,True,False,False,False,2021,USD,287 Youngstown Warren Rd,Hampstead,Carroll,410-209-9545,sylvia_berg@aol,A00177
+914-796-3775,Nana,Wrinkles,NY,31.0,10553,2021-2-28,1,870,0.85,6500,8109.5,True,True,True,False,2021,USD,87 Van Buren St,Mount Vernon,Westchester,914-855-2115,nana@aol.com,A00178
+212-253-7448,Layla,Springe,NY,29.0,10011,2021-4-11,3,920,0.0,4500,5420.0,False,False,True,False,2021,USD,229 N Forty Driv,New York,New York,212-260-3151,layla.springe@cox.net,A00179
+510-942-5916,Joesph,Degonia,CA,47.0,94710,2021-3-14,1,860,0.0,3500,4360.0,False,False,False,False,2021,USD,2887 Knowlton St #5435,Berkeley,Alameda,510-677-9785,joesph_degonia@degonia.org,A00180
+978-289-7717,Annabelle,Haber,MA,4.0,1742,2021-5-9,3,1010,0.85,4500,6368.5,True,True,False,False,2021,USD,523 Marquette Ave,Concord,Middlesex,978-697-6263,annabelle.haber@cox.net,A00181
+415-712-9530,Stephaine,Vinning,CA,8.5,94104,2021-8-14,3,1430,0.0,3500,4930.0,True,False,False,False,2021,USD,3717 Hamann Industrial Pky,San Francisco,San Francisco,415-767-6596,stephaine@cox.net,A00182
+201-247-8925,Nelida,Sawchuk,MO,3.0,63113,2021-2-4,1,1150,0.85,3500,5627.5,True,True,False,False,2021,USD,1620 Union Blvd,Saint Louis,Saint Louis,201-971-1638,nelida@gmail.com,A00183
+925-541-8521,Marguerita,Hiatt,CA,45.0,94561,2021-1-4,1,910,0.85,3500,5183.5,True,True,False,True,2021,USD,82 N Highway 67,Oakley,Contra Costa,925-634-7158,marguerita.hiatt@gmail.com,A00184
+773-297-9391,Carmela,Spark,IL,16.0,60623,2021-4-16,2,630,0.0,5500,6130.0,False,False,False,True,2021,USD,123 Murfreesboro Rd,Chicago,Cook,773-494-4195,spark-carmela@yahoo.com,A00185
+973-582-5469,Junita,Brideau,NJ,24.0,7009,2021-6-8,1,870,0.0,3500,4370.0,True,False,False,False,2021,USD,28 Broadway St,Cedar Grove,Essex,973-943-3423,jbrideau@aol.com,A00186
+419-573-2033,Claribel,Varriano,OH,13.0,43551,2021-7-16,2,650,0.85,5500,6702.5,False,True,True,True,2021,USD,34 Harry L Dr #6327,Perrysburg,Wood,419-544-4900,claribel_varriano@cox.net,A00187
+310-694-8466,Benton,Skursky,CA,48.0,90248,2021-7-5,3,820,0.0,4500,5320.0,False,False,False,False,2021,USD,7939 Porter Ave,Gardena,Los Angeles,310-579-2907,benton.skursky@aol.com,A00188
+352-990-5946,Hillary,Skulski,FL,35.0,34448,2021-2-27,2,850,0.0,6500,7350.0,False,False,False,False,2021,USD,9 Wales Rd Ne #914,Homosassa,Citrus,352-242-2570,hillary.skulski@aol.com,A00189
+408-346-2180,Merilyn,Bayless,CA,49.0,95054,2021-8-18,1,810,0.85,2500,3998.5,False,True,False,False,2021,USD,20 Fleetwood Av,Santa Clara,Santa Clara,408-758-5015,merilyn_bayless@cox.net,A00190
+570-355-1665,Teri,Ennaco,PA,2.0,18201,2021-10-24,1,1480,0.85,2500,5238.0,True,True,False,True,2021,USD,99 Tank Farm Rd,Hazleton,Luzerne,570-889-5187,tennaco@gmail.com,A00191
+201-858-9960,Merlyn,Lawler,NJ,14.0,7304,2021-10-2,2,1070,0.0,6500,7570.0,True,False,True,True,2021,USD,4671 Alemany Blvd,Jersey City,Hudson,201-588-7810,merlyn_lawler@hotmail.com,A00192
+925-943-3449,Georgene,Zuma,CA,46.0,94583,2021-8-4,2,870,0.0,3500,4370.0,False,False,True,False,2021,USD,98 University Dr,San Ramon,Contra Costa,925-615-5185,gzuma@cox.net,A00193
+908-602-5258,Jettie,Mconnell,NJ,8.5,8807,2021-8-22,2,1430,0.0,4500,5930.0,True,False,True,True,2021,USD,50 E Wacker Dr,Bridgewater,Somerset,908-802-3564,jmconnell@hotmail.com,A00194
+631-291-4976,Lemuel,Latzke,NY,2.0,11716,2021-9-8,1,1480,0.0,4500,5980.0,True,False,True,True,2021,USD,70 Euclid Ave 722,Bohemia,Suffolk,631-748-6479,lemuel.latzke@gmail.com,A00195
+805-810-8964,Melodie,Knipp,CA,59.0,91362,2021-10-2,1,670,0.0,4500,5170.0,False,False,True,True,2021,USD,326 E Main St 6496,Thousand Oaks,Ventura,805-690-1682,mknipp@gmail.com,A00196
+908-943-6103,Candida,Corbley,NJ,25.5,8876,2021-8-21,3,840,0.0,3500,4340.0,True,False,True,True,2021,USD,406 Main St,Somerville,Somerset,908-275-8357,candida_corbley@hotmail.com,A00197
+503-707-5812,Karan,Karpin,OR,4.0,97005,2021-9-17,3,580,0.0,2500,3080.0,False,False,True,False,2021,USD,43 Elmwood Dr,Beaverton,Washington,503-940-8327,karan_karpin@gmail.com,A00198
+503-950-3068,Andra,Scheyer,OR,3.0,97302,2021-4-19,1,880,0.0,2500,3380.0,True,False,True,True,2021,USD,473 Church St,Salem,Marion,503-516-2189,andra@gmail.com,A00199
+856-828-6021,Felicidad,Poullion,NJ,13.0,8077,2021-2-8,2,1180,0.0,5500,6680.0,True,False,False,False,2021,USD,939 N 14th St,Riverton,Burlington,856-305-9731,fpoullion@poullion.com,A00200
+770-802-4003,Belen,Strassner,GA,9.0,30135,2021-4-19,3,650,0.0,5500,6150.0,False,False,False,True,2021,USD,5384 Southwyck Blvd,Douglasville,Douglas,770-507-8791,belen_strassner@aol.com,A00201
+904-627-4341,Gracia,Melnyk,FL,40.0,32216,2021-7-21,3,760,0.0,5500,6260.0,False,False,True,False,2021,USD,97 Airport Loop Dr,Jacksonville,Duval,904-235-3633,gracia@melnyk.com,A00202
+207-233-6185,Jolanda,Hanafan,ME,2.0,4401,2021-1-18,1,600,0.85,4500,5610.0,False,True,False,False,2021,USD,7855 Nolan Rd,Bangor,Penobscot,207-458-9196,jhanafan@gmail.com,A00203
+817-577-6151,Barrett,Toyama,TX,28.0,76060,2021-5-19,3,940,0.0,4500,5440.0,False,False,False,True,2021,USD,252 N Washington Ave #9,Kennedale,Tarrant,817-765-5781,barrett.toyama@toyama.org,A00204
+716-854-9845,Helga,Fredicks,NY,9.0,14228,2021-11-1,1,1330,0.0,2500,3830.0,True,False,True,False,2021,USD,2754 S Ash Ave,Buffalo,Erie,716-752-4114,helga_fredicks@yahoo.com,A00205
+305-857-5489,Ashlyn,Pinilla,FL,10.0,33054,2021-4-1,3,1290,0.85,5500,7886.5,True,True,True,False,2021,USD,703 Beville Rd,Opa Locka,Miami-Dade,305-670-9628,apinilla@cox.net,A00206
+212-778-3063,Fausto,Agramonte,NY,20.0,10038,2021-2-23,3,1050,0.0,5500,6550.0,True,False,False,False,2021,USD,5 Harrison Rd,New York,New York,212-313-1783,fausto_agramonte@yahoo.com,A00207
+215-511-3531,Ronny,Caiafa,PA,25.0,19103,2021-9-7,1,830,0.0,4500,5330.0,False,False,False,True,2021,USD,73 Southern Blvd,Philadelphia,Philadelphia,215-605-7570,ronny.caiafa@caiafa.org,A00208
+850-330-8079,Marge,Limmel,FL,28.0,32536,2021-10-23,3,1040,0.85,3500,5424.0,True,True,True,False,2021,USD,189 Village Park Rd,Crestview,Okaloosa,850-430-1663,marge@gmail.com,A00209
+415-874-2984,Norah,Waymire,CA,65.0,94107,2021-5-9,2,590,0.0,6500,7090.0,True,False,False,False,2021,USD,35 Middlegate Rd #106,San Francisco,San Francisco,415-306-7897,norah.waymire@gmail.com,A00210
+408-425-1994,Aliza,Baltimor,CA,27.0,95132,2021-1-21,1,1160,0.0,6500,7660.0,True,False,True,True,2021,USD,1128 Delaware St,San Jose,Santa Clara,408-504-3552,aliza@aol.com,A00211
+650-960-1069,Mozell,Pelkowski,CA,66.0,94080,2021-6-29,2,550,0.0,6500,7050.0,False,False,True,False,2021,USD,577 Parade St,San Francisco,San Mateo,650-947-1215,mpelkowski@pelkowski.org,A00212
+818-481-5787,Viola,Bitsuie,CA,53.5,91325,2021-11-2,2,760,0.0,6500,7260.0,True,False,True,True,2021,USD,70 Mechanic St,Northridge,Los Angeles,818-864-4875,viola@gmail.com,A00213
+215-483-3003,Franklyn,Emard,PA,28.0,19103,2021-9-15,1,720,0.0,5500,6220.0,True,False,False,False,2021,USD,4379 Highway 116,Philadelphia,Philadelphia,215-558-8189,femard@emard.com,A00214
+337-774-7564,Tom,Konopacki,LA,4.0,70506,2021-10-17,1,870,0.0,6500,7370.0,False,False,False,False,2021,USD,55 Hawthorne Blvd,Lafayette,Lafayette,337-253-8384,tom_konopacki@konopacki.org,A00215
+313-390-7855,Beckie,Silvestrini,MI,4.0,48126,2021-11-22,3,1060,0.0,3500,4560.0,True,False,False,False,2021,USD,7116 Western Ave,Dearborn,Wayne,313-533-4884,beckie.silvestrini@silvestrini.com,A00216
+512-693-8345,Rebecka,Gesick,TX,10.0,78754,2021-8-12,2,1320,0.0,4500,5820.0,True,False,True,False,2021,USD,2026 N Plankinton Ave #3,Austin,Travis,512-213-8574,rgesick@gesick.org,A00217
+214-529-1949,Frederica,Blunt,TX,36.5,75207,2021-3-7,3,790,0.0,4500,5290.0,True,False,False,False,2021,USD,9586 Main St,Dallas,Dallas,214-428-2285,frederica_blunt@gmail.com,A00218
+206-389-1482,Glen,Bartolet,WA,2.0,98070,2021-3-22,2,1090,0.0,2500,3590.0,True,False,False,True,2021,USD,739 Hudson St,Vashon,King,206-697-5796,glen_bartolet@hotmail.com,A00219
+610-752-2683,Freeman,Gochal,PA,15.0,19320,2021-11-19,1,1110,0.0,2500,3610.0,True,False,False,False,2021,USD,383 Gunderman Rd #197,Coatesville,Chester,610-476-3501,freeman_gochal@aol.com,A00220
+215-829-4221,Vincent,Conerly,PA,12.0,19143,2021-11-14,1,1200,0.0,5500,6700.0,True,False,False,False,2021,USD,44 Main St,Philadelphia,Philadelphia,215-372-1718,vincent_conerly@hotmail.com,A00221
+310-499-4200,Rima,Bevelar,CA,14.0,90248,2021-4-10,1,1410,0.0,4500,5910.0,True,False,True,False,2021,USD,2972 Lafayette Ave,Gardena,Los Angeles,310-858-5079,rima@cox.net,A00222
+707-881-3154,Glendora,Sarbacher,CA,23.0,94928,2021-3-7,2,1260,0.0,3500,4760.0,True,False,False,False,2021,USD,2140 Diamond Blvd,Rohnert Park,Sonoma,707-653-8214,gsarbacher@gmail.com,A00223
+407-945-8566,Avery,Steier,FL,49.0,32803,2021-9-7,1,510,0.0,2500,3010.0,True,False,False,True,2021,USD,93 Redmond Rd #492,Orlando,Orange,407-808-9439,avery@cox.net,A00224
+760-465-4762,Cristy,Lother,CA,32.0,92025,2021-4-14,3,1130,0.85,6500,8590.5,True,True,True,True,2021,USD,3989 Portage Av,Escondido,San Diego,760-971-4322,cristy@lother.com,A00225
+508-504-6388,Nicolette,Brossart,MA,5.0,1581,2021-8-19,2,940,0.85,3500,5239.0,True,True,True,True,2021,USD,654 Midway Rd,Westborough,Worcester,508-837-9230,nicolette_brossart@brossart.com,A00226
+936-988-8171,Tracey,Modzelewski,TX,42.0,77301,2021-7-22,3,590,0.0,6500,7090.0,False,False,False,False,2021,USD,7132 Suset Blvd,Conroe,Montgomery,936-264-9294,tracey@hotmail.com,A00227
+414-411-5744,Virgina,Tegarden,WI,11.0,53226,2021-9-28,1,680,0.85,5500,6758.0,False,True,True,False,2021,USD,755 Harbor Way,Milwaukee,Milwaukee,414-214-8697,virgina_tegarden@tegarden.com,A00228
+626-638-4241,Tiera,Frankel,CA,18.0,91731,2021-8-19,1,1380,0.0,2500,3880.0,True,False,True,True,2021,USD,87 Sierra Rd,El Monte,Los Angeles,626-636-4117,tfrankel@aol.com,A00229
+914-654-1426,Alaine,Bergesen,NY,10.0,10701,2021-1-7,3,1250,0.0,6500,7750.0,True,False,False,True,2021,USD,7667 S Hulen St,Westborough,Westchester,914-300-9193,alaine_bergesen@cox.net,A00230
+214-785-6750,Earleen,Mai,TX,6.0,75227,2021-5-20,3,1350,0.0,2500,3850.0,True,False,False,False,2021,USD,5684 S Withlapopka Dr #32,Dallas,Dallas,214-289-1973,earleen_mai@cox.net,A00231
+228-432-4635,Leonida,Gobern,MS,1.0,39530,2021-4-12,1,710,0.0,3500,4210.0,True,False,False,False,2021,USD,5 Elmwood Park Blvd,Biloxi,Harrison,228-235-5615,leonida@gobern.org,A00232
+305-287-4743,Ressie,Evans,FL,29.0,33134,2021-11-20,2,1020,0.0,4500,5520.0,True,False,False,False,2021,USD,23 Palo Alto Sq,Miami,Miami-Dade,305-604-8981,ressie.evans@yahoo.com,A00233
+212-311-6377,Justine,Mugnolo,NY,32.0,10048,2021-6-29,1,790,0.0,6500,7290.0,True,False,True,False,2021,USD,8062 E Main St,New York,New York,212-304-9225,jmugnolo@yahoo.com,A00234
+201-365-8698,Eladia,Saulter,NJ,19.0,7446,2021-4-15,3,910,0.85,6500,8183.5,True,True,False,True,2021,USD,3958 S Dupont Hwy #7,Ramsey,Bergen,201-474-4924,eladia@saulter.com,A00235
+734-408-8174,Chaya,Malvin,MI,3.0,48103,2021-1-28,3,1150,0.0,4500,5650.0,True,False,False,True,2021,USD,560 Civic Center Dr,Ann Arbor,Washtenaw,734-928-5182,chaya@malvin.com,A00236
+631-295-9879,Gwenn,Suffield,NY,19.0,11729,2021-11-22,1,1100,0.85,2500,4535.0,True,True,False,False,2021,USD,3270 Dequindre Rd,Deer Park,Suffolk,631-258-6558,gwenn_suffield@suffield.org,A00237
+330-618-2579,Salena,Karpel,OH,9.0,44707,2021-4-3,1,720,0.85,6500,7832.0,True,True,True,True,2021,USD,837 Garfield Ave #7,Canton,Stark,330-791-8557,skarpel@cox.net,A00238
+203-840-8634,Sima,Smith,CT,3.0,6511,2021-11-27,2,1470,0.0,6500,7970.0,True,False,True,True,2021,USD,9122 Carpenter Ave,New Haven,New Haven,203-506-4706,sima_smith@yahoo.com,A00239
+703-938-7939,Taryn,Moyd,VA,4.0,22030,2021-6-13,2,610,0.0,5500,6110.0,False,False,True,True,2021,USD,648 Lenox St,Fairfax,Fairfax City,703-322-4041,taryn.moyd@hotmail.com,A00240
+978-679-7429,Katina,Polidori,MA,1.0,1887,2021-2-2,1,1140,0.0,4500,5640.0,True,False,True,False,2021,USD,557 Little River Ave,Wilmington,Middlesex,978-626-2978,katina_polidori@aol.com,A00241
+419-313-5571,Rickie,Plumer,OH,16.0,43613,2021-9-16,3,550,0.0,5500,6050.0,True,False,False,False,2021,USD,8 Groesbeck Hwy,Toledo,Lucas,419-693-1334,rickie.plumer@aol.com,A00242
+253-875-9222,Alex,Ford,WA,4.0,98409,2021-11-3,1,780,0.85,2500,3943.0,True,True,False,True,2021,USD,3789 Henry St,Tacoma,Pierce,253-660-7821,alex@fordcom,A00243
+916-289-4526,Lashon,Vizarro,CA,8.5,95661,2021-9-1,2,1430,0.0,5500,6930.0,True,False,False,True,2021,USD,433 Westminster Blvd #590,Roseville,Placer,916-741-7884,lashon@aol.com,A00244
+307-453-7589,Lauran,Burns,WY,4.0,82501,2021-7-13,3,1060,0.85,3500,5461.0,True,True,True,False,2021,USD,6697 Park Pl #3224,Riverton,Fremont,307-342-7795,lburns@yahoo.com,A00245
+207-297-5029,Ceola,Setter,ME,1.0,4864,2021-8-21,2,1030,0.0,6500,7530.0,True,False,False,True,2021,USD,6263 Greenwood Pl,Warren,Knox,207-627-7565,ceola.setter@setter.org,A00246
+215-647-2158,Lora,Rider,PA,11.0,18954,2021-5-15,1,1340,0.0,4500,5840.0,True,False,True,True,2021,USD,345 Mcarthur Ln,Richboro,Bucks,215-491-5633,lorar@hotmail.com,A00247
+813-863-6467,Wolf,Edison,FL,7.0,33614,2021-11-28,1,1420,0.0,4500,5920.0,True,False,False,True,2021,USD,8 Fair Lawn Ave,Tampa,Hillsborough,813-769-2939,wolfe@worlds.com,A00248
+619-695-8086,Peggie,Sturiale,CA,30.0,92020,2021-6-25,3,1140,0.85,3500,5609.0,True,True,True,True,2021,USD,14 Fairbanks St,El Cajon,San Diego,619-608-1763,peggie@cox.net,A00249
+979-809-5770,Marvel,Raymo,TX,36.5,77840,2021-2-25,2,790,0.0,2500,3290.0,True,False,False,True,2021,USD, 356 Vanowen St,College Station,Brazos,979-718-8968,mraymo@yahoo.com,A00250
+847-265-6609,John,Dinos,IL,17.0,60035,2021-5-23,2,590,0.0,3500,4090.0,False,False,False,True,2021,USD,378 Waterloo Geneva Rd,Highland Park,Lake,847-233-3075,dinosj@cox.net,A00251
+609-854-7156,Anna,Fritz,NJ,5.0,8401,2021-4-20,2,1460,0.85,4500,7201.0,True,True,False,True,2021,USD,506 S Hacienda Dr,Atlantic City,Atlantic,609-228-5265,anna_fritz@hotmail.com,A00252
+908-670-4712,Portia,Scales,NJ,27.0,8807,2021-8-25,3,770,0.0,4500,5270.0,True,False,False,False,2021,USD,3732 Sherman Ave,Bridgewater,Somerset,908-722-7128,portia.scales@aol.com,A00253
+718-280-4183,Rhea,Aredondo,NY,14.0,11226,2021-2-20,1,1180,0.0,5500,6680.0,True,False,True,False,2021,USD,5657 Live Oak St,Brooklyn,Kings,718-560-9537,rhea_aredondo@cox.net,A00254
+314-858-4832,Benedict,Sama,MO,9.0,63104,2021-1-4,1,780,0.0,2500,3280.0,True,False,False,False,2021,USD,4923 Carey Ave,Saint Louis,Saint Louis City,314-787-1588,bsama@cox.net,A00255
+209-242-7022,Emma,Arias,CA,42.0,95207,2021-1-15,1,930,0.0,3500,4430.0,False,False,True,True,2021,USD,3196 S Rider St,Stockton,San Joaquin,209-317-1801,emma_arias@arias.org,A00256
+973-822-8827,Ben,Berganza,NJ,15.0,7424,2021-11-16,3,1060,0.0,6500,7560.0,True,False,False,False,2021,USD,895 Railway Ave #75,Little Falls,Passaic,973-936-5095,ben_berganza@gmail.com,A00257
+183-302-9023,Corey,Chapman,FL,20.0,33147,2021-2-27,3,1110,0.0,2500,3610.0,True,False,False,False,2021,USD,1781 NW 95th St,Miami,Miami-Dade,361-494-5907,chapman.cor@gmail.com,A00258
+444-234-7610,Booker,Valencia,FL,17.0,33135,2021-5-21,1,1150,0.0,2500,3650.0,True,False,True,True,2021,USD,999 SW 1st St,Miami,Miami-Dade,419-771-0535,valencia.bo@lau.edu,A00259
+779-354-5526,Renee,Diaz,FL,30.0,33127,2021-4-12,2,990,0.0,6500,7490.0,True,False,False,False,2021,USD,6161 NW 5th Ct, Miami,Miami-Dade,247-904-9933,diaz_renee@hotmail.com,A00260
+763-289-5931,James,Chemel,FL,12.5,33125,2021-11-12,2,1210,0.85,6500,8738.5,True,True,False,False,2021,USD,1802 NW 37th Ave,Miami,Miami-Dade,980- 446-1616,chemel.james@gmail.com,A00261
+823-731-4592,Soveta,Navarro,FL,23.5,33142,2021-8-9,3,1070,0.85,3500,5479.5,True,True,True,False,2021,USD,3196 NW 54th St,Miami,Miami-Dade,344-975-7816,navarro_soveta@aol.com,A00262
+836-364-2241,Betty,Dean,FL,9.0,33150,2021-9-23,1,1300,0.0,3500,4800.0,True,False,False,False,2021,USD,6650 NW 7th Ave,Miami,Miami-Dade,243-422-2713,dean_betty@psu.edu,A00263
+606-203-9476,Joan,Dodson,FL,33.0,33135,2021-10-11,1,950,0.0,4500,5450.0,False,False,False,False,2021,USD,1599 W Flagler St,Miami,Miami-Dade,437-993-3077,dodson.joan@yahoo.com,A00264
+465-235-8954,Kim,Allen,FL,42.0,33147,2021-6-28,1,740,0.85,3500,4869.0,True,True,True,True,2021,USD,6700 NW 27th Ave,Miami,Miami-Dade,345-469-6962,allen_kim@gmail.com,A00265
+888-224-7414,Joan,Duarte,FL,3.0,33125,2021-5-1,2,1470,0.0,5500,6970.0,True,False,True,False,2021,USD,425 NW 27th Ave,Miami,Miami-Dade,468-554-7735,duarte_joan@wmn.org,A00266
+606-203-9476,Ruby,Nixon,FL,27.0,33142,2021-4-13,1,1050,0.0,3500,4550.0,True,False,True,True,2021,USD,1799 NW 28th St,Miami,Miami-Dade,846-239-3164,nixon@gmail.com,A00267
+385-948-9243,Pete,Franklin,FL,25.5,33136,2021-6-6,3,1060,0.0,4500,5560.0,True,False,True,True,2021,USD,350 NW 13th St,Miami,Miami-Dade,438-710-3997,franklin.p@hotmail.com,A00268
+888-229-8406,Veronika,Ledecky,FL,6.0,33142,2021-2-11,1,1430,0.0,5500,6930.0,True,False,True,False,2021,USD,1799 NW 35th St,Miami,Miami-Dade,446-923-5599,ledecky.veron@sru.edu,A00269
+606-229-7675,Jordon,Lam,FL,34.0,33145,2021-4-16,2,890,0.0,2500,3390.0,True,False,True,False,2021,USD,1800 SW 21st Ave,Miami,Miami-Dade,291-566-9277,lam_jordon@aol.com,A00270
+765-973-0462,Logan,Blair,OK,1.0,73107,2021-11-7,1,1460,0.0,3500,4960.0,True,False,True,False,2021,USD,2801 NW 27th St,Oklahoma City,Oklahoma,327-999-6869,blair_logan@yahoo.com,A00271
+730-297-9391,Armen,Spark,IL,6.0,60623,2021-4-9,2,1240,0.0,4500,5740.0,True,False,False,True,2021,USD,34 Murfreesboro Rd,Chicago,Cook,264-494-4195,spark_armena@yahoo.com,A00272
+317-441-5848,Carey,Dopico,IN,9.0,46220,2021-10-9,2,620,0.0,5500,6120.0,True,False,False,False,2021,USD,393 E Highland Rd,Indianapolis,Marion,317-578-2453,carey_dopico@wmn.org,A00273
+206-295-5631,Rita,Walker,WA,1.0,98133,2021-2-14,3,1150,0.0,4500,5650.0,True,False,False,False,2021,USD,67 E Chestnut Hill Rd,Seattle,King,206-540-6076,rita_walker@hotmail.com,A00274
+629-465-1990,Russell,Covington,FL,41.0,33131,2021-5-6,1,750,0.0,2500,3250.0,True,False,True,False,2021,USD,444 Brickell Ave,Miami,Miami-Dade,657-501-6547,covington_ru@hotmail.com,A00275
+653-937-2433,Roman,Franklin,FL,45.0,33128,2021-3-20,2,650,0.0,6500,7150.0,False,False,False,True,2021,USD,398 NW North River Dr,Miami,Miami-Dade,721-719-2877,roman@aol.com,A00276
+894-204-8829,Chance,Moret,FL,48.0,33132,2021-5-7,3,590,0.0,4500,5090.0,False,False,False,False,2021,USD,635 N Bayshore Dr,Miami,Miami-Dade,320-652-3428,@moret_ch@yahoo.com,A00277
+800-629-7746,Aaron,Staker,FL,11.0,33127,2021-9-3,1,1220,0.0,6500,7720.0,True,False,True,True,2021,USD,2834 N Miami Ave,Miami,Miami-Dade,363-244-2162,staker_aaron@hotmail.com,A00278
+336-477-9453,Andy,Mitchell,FL,16.0,33137,2021-6-10,3,1180,0.85,4500,6683.0,True,True,False,False,2021,USD,162 NE 39th St, Miami,Miami-Dade,818-764-1530,mitchell_andy@uoc.edu,A00279
+340-625-1836,Jennifer,Nicholso,FL,23.5,33125,2021-6-10,3,1070,0.85,6500,8479.5,True,True,False,False,2021,USD,1802 NW 37th Ave, Miami,Miami-Dade,421-552-8475,nicholso_jen@wmn.org,A00280
+345-879-0976,Audry,Urmin,FL,39.0,33511,2021-10-21,3,780,0.85,4500,5943.0,True,True,False,False,2021,USD,7029 Pioneer Ct,Brandon,Hillsborough,813-797-4816,audry.urmin@klu.org,A00281
+234-256-6172,Ida,Washington,IN,6.0,46229,2021-9-6,3,980,0.0,2500,3480.0,False,False,True,True,2021,USD,2140 N Mitthoeffer Rd,Indianapolis,Marion,858-617-7834,ida.w@hp.net,A00282
+452-864-5791,Robby,Hull,TX,7.0,77091,2021-7-26,2,1340,0.0,6500,7840.0,True,False,False,False,2021,USD,6719 W Montgomery Rd,Houston,Harris,760-616-5388,hull_rob@kmg.edu,A00283
+965-521-7634,Alexander,Stokes,CO,8.0,80260,2021-8-21,3,690,0.85,4500,5776.5,True,True,True,True,2021,USD,2380 W 90th Ave,Denver,Adams,609-373-3332,stokes_al@aol.com,A00284
+452-987-3670,Natali,Kidd,NC,6.0,28211,2021-11-18,3,1330,0.0,2500,3830.0,True,False,False,True,2021,USD,601 E. Trade Street,Charlotte,Mecklenburg,401-465-6432,kidn@hotmail.com,A00285
+37-964-8743,Iris,Griffin,NV,6.5,89121,2021-9-21,3,740,0.0,6500,7240.0,False,False,False,True,2021,USD,2655 E Desert Inn Rd,Las Vegas,Clark,785-347-1805,griffin_iris@yahool.com,A00286
+464-873-2038,Lanna,Cross,MO,4.5,64106,2021-10-11,2,1140,0.0,5500,6640.0,True,False,False,True,2021,USD,615 E 13th St,Kansas City,Jackson,916-920-3571,lanna_cross@aol,A00287
+482-721-3589,Elbert,Sampson,GA,7.5,30303,2021-11-10,1,990,0.0,4500,5490.0,True,False,True,True,2021,USD,130 Peachtree,Atlanta,Fulton,386-248-4118,sampson.el@gmail.com,A00288
+473-729-2290,Doyle,Chen,TX,1.5,77008,2021-4-10,2,1460,0.0,5500,6960.0,True,False,False,False,2021,USD,1127 N Shepherd Dr,Houston,Harris,202-646-7516,chendoy@kmg.edu,A00289
+376-983-2934,Jonas,Chambers,IL,12.0,60620,2021-9-13,2,760,0.85,6500,7906.0,False,True,True,True,2021,USD,8058 S Halsted St,Chicago,Cook,415-423-3294,chambers_jon@gmail.com,A00290
+844-095-2345,Annette,Mays,IL,9.5,60661,2021-3-1,3,1070,0.85,6500,8479.5,True,True,False,False,2021,USD,2210 W Taylor St,Chicago,Cook,659-973-1415,maysane@aol.com,A00291
+893-984-0943,Lavern,Vaughan,FL,20.0,33125,2021-7-26,1,1110,0.0,2500,3610.0,True,False,False,True,2021,USD,1881 NW 7th St,Miami,Miami-Dade,350-936-9795,lavern@yahoo.com,A00292
+276-839-0273,Freida,Levine,TX,38.5,75211,2021-11-2,2,730,0.0,2500,3230.0,False,False,True,False,2021,USD,4230 W Illinois Ave,Dallas,Dallas,240-549-5397,levie_fre@htp.edu,A00293
+265-182-9383,Donna,Avila,TX,40.5,77076,2021-3-11,1,640,0.0,5500,6140.0,True,False,True,True,2021,USD,203 E Little York Rd,Houston,Harris,483-626-9332,avila_donna@aol.com,A00295
+306-412-6633,Alma,Medina,AZ,4.5,85016,2021-6-11,3,950,0.0,5500,6450.0,False,False,True,True,2021,USD,2210 E Monte Vista,Phoenix,Maricopa,518-511-6591,medina_alma@yahoo.com,A00296
+567-304-5679,Newton,Donovan,MO,12.5,63112,2021-3-17,2,630,0.85,2500,3665.5,True,True,True,True,2021,USD,5595 Grand Dr,St Louis,St.Louis,793-231-3799,donovan@learn.org,A00297
+907-656-9876,Gina,Sellers,AZ,2.5,85029,2021-7-21,3,1250,0.0,5500,6750.0,True,False,False,True,2021,USD,110 N Black Canyon Hwy,Phoenix,Maricopa,286-679-1652,sellersg@hotmail.com,A00298
+754-459-2145,Eliseo,Charles,PA,9.5,19104,2021-9-10,2,1390,0.0,3500,4890.0,True,False,True,False,2021,USD,4021 Parkside Ave,Philadelphia,Philadelphia,255-306-5075,charles.eli@htp.edu,A00299
+872-453-1038,Alan,Burns,FL,31.5,32801,2021-1-19,2,980,0.85,2500,4313.0,True,True,False,True,2021,USD,101 E Central Blvd,Orlando,Orange,870-703-0178,burns_alan@aol.com,A00300
+249-347-4232,Toby,Taylor,TX,14.0,78701,2021-4-8,2,1280,0.85,5500,7868.0,True,True,True,False,2021,USD,E 7th St,Austin,Travis,422-373-0780,toby_taylor@gmail.com,A00301
+709-216-6994,Adam,Snow,TX,16.5,78701,2021-3-9  ,2,1230,0.0,3500,4730.0,True,False,True,False,2021,USD,903 San Jacinto Blvd,Austin,Travis,484-683-4265,adam_s62@yahoo.com,A00302
+494-757-8440,Donald,Alvarado,MD,9.5,21230,2021-11-20,2,1020,0.0,2500,3520.0,True,False,False,False,2021,USD,2921 Stranden Rd,Baltimore,Baltimore,403-426-0936,donald_alv@gmail.com,A00303
+344-548-2646,Iris,Campbell,NC,2.5,28202,2021-2-11,1,1430,0.0,3500,4930.0,True,False,True,False,2021,USD,222 E 3rd St,Charlotte,Mecklenburg,327-887-5941,iris49@gmail.com,A00304
+927-253-7911,Lea,Pittman,NC,13.5,28217,2021-4-15,3,910,0.85,6500,8183.5,True,True,False,True,2021,USD,4800 S Tryon St,Charlotte,Mecklenburg,664-378-7149,lea_pittman@hotmail.com,A00305
+645-537-7962,Edgar,Gallagher,MD,2.5,21210,2021-5-1,2,1470,0.0,3500,4970.0,True,False,True,False,2021,USD,121 Mcmechen St,Baltimore,Baltimore,439-664-8344,edgar_gal@hotmail.com,A00306
+781-934-5215,Krista,Gray,TN,2.5,38103,2021-7-21,2,1120,0.0,5500,6620.0,True,False,True,True,2021,USD,201 Poplar Ave,Memphis,Shelby,781-290-6913,gray.kris@hotmail.com,A00294
+670-378-7149,Kristel,Ehmann,TX,5.0,79925,2021-8-9,1,1380,0.85,2500,5053.0,True,True,True,False,2021,USD,92899 Kalakaua Ave,El Paso,El Paso,915-452-1290,kristel.ehmann@aol.com,D00001
+664-370-7142,Vincenza,Zepp,CA,1.0,92020,2021-6-7,2,1510,0.0,3500,5010.0,True,False,False,False,2021,USD,395 S 6th St,El Cajon,San Diego,619-603-5125,vzepp@gmail.com,D00002
+664-324-7149,Elouise,Gwalthney,CO,1.0,80212,2021-10-14,2,1620,0.85,4500,7497.0,True,True,False,True,2021,USD,9506 Edgemore Ave,Denver,Denver,322-841-5012,egwalthney@yahoo.com,D00003
+664-300-7149,Venita,Maillard,CA,50.0,92801,2021-6-25,1,800,0.85,5500,6980.0,False,True,True,True,2021,USD,7211 S Walker Ave #63,Anaheim,Orange,714-523-6653,venita_maillard@gmail.com,D00004
+664-000-7149,Kasandra,Semidey,MO,8.0,63102,2021-10-21,3,860,0.0,4500,5360.0,False,False,True,False,2021,USD,369 Latham St,Saint Louis,Saint Louis City,314-732-9131,kasandra_semidey@semidey.com,D00005
+468-554-7799,Xochitl,Discipio,TX,34.5,78664,2021-1-6,3,820,0.85,3500,5017.0,False,True,False,False,2021,USD,3158 Runamuck Pl,Round Rock,Williamson,512-233-1831,xdiscipio@gmail.com,D00006
+468-564-7735,Maile,Linahan,NC,1.0,27409,2021-9-4,2,1470,0.85,6500,9219.5,True,True,False,True,2021,USD,987 Plainsboro Rd,Greensboro,Guilford,336-670-2640,mlinahan@yahoo.com,D00007
+468-599-7735,Krissy,Rauser,NY,11.5,11727,2021-7-28,3,1220,0.0,2500,3720.0,True,False,True,False,2021,USD,8728 S Broad St,Coram,Suffolk,631-443-4710,krauser@cox.net,D00008
+368-554-7735,Pete,Dubaldi,NJ,25.5,7071,2021-10-14,3,840,0.85,2500,4054.0,True,True,True,False,2021,USD,2215 Prosperity Dr,Lyndhurst,Bergen,201-825-2514,pdubaldi@hotmail.com,D00009
+468-482-7735,Linn,Smith,TN,5.0,38112,2021-5-15,3,1040,0.0,6500,7540.0,True,False,False,False,2021,USD,654 S Pine St,Memphis,Shelby,901-412-4381,linn_smith@aol.com,D00010
+468-554-3335,Paris,Wide,GA,6.0,30342,2021-3-21,3,1160,0.0,3500,4660.0,True,False,False,False,2021,USD,187 Market St,Atlanta,Fulton,404-505-4445,paris@hotmail.com,D00011
+468-222-7735,Wynell,Dorshorst,CA,24.0,94044,2021-2-7,2,1200,0.85,5500,7720.0,True,True,False,True,2021,USD,94290 S Buchanan St,Pacifica,San Mateo,650-473-1262,wynell_dorshorst@dorshorst.org,D00012
+468-767-7735,Quentin,Birkner,MN,3.5,55337,2021-2-23,1,1380,0.85,3500,6053.0,True,True,True,False,2021,USD,7061 N 2nd St,Burnsville,Dakot,952-702-7993,qbirkner@aol.com,D00013
+201-825-4414,Regenia,Kannady,AZ,6.0,85260,2021-9-17,1,880,0.0,6500,7380.0,True,False,False,False,2021,USD,10759 Main St,Scottsdale,Maricopa,480-726-1280,regenia.kannady@cox.net,D00014
+201-825-2214,Sheron,Louissant,NY,6.0,11101,2021-4-28,2,1390,0.0,4500,5890.0,True,False,False,False,2021,USD,97 E 3rd St #9,Long Island City,Queens,718-976-8610,sheron@aol.com,D00015
+381-825-2514,Izetta,Funnell,GA,3.0,30340,2021-9-25,3,1350,0.85,6500,8997.5,True,True,True,True,2021,USD,82 Winsor St #54,Atlanta,Dekalb,770-844-3447,izetta.funnell@hotmail.com,D00016
+301-825-2514,Lee,Butzen,MN,3.5,55057,2021-5-9,3,1380,0.0,5500,6880.0,True,False,True,True,2021,USD,417 Steel Ct,Northfield,Rice,507-210-3510,butzen_lee@hotmail.com,D00017
+201-335-2514,Zona,Colla,CT,2.0,6854,2021-7-12,2,1500,0.0,6500,8000.0,True,False,True,False,2021,USD,4944 Dearborn St,Norwalk,Fairfield,203-461-1949,zona@hotmail.com,D00018
+333-825-2514,Serina,Zagen,IN,7.0,46802,2021-2-7,2,830,0.85,4500,6035.5,True,True,False,True,2021,USD,64 S Beverly Dr,Fort Wayne,Allen,260-273-3725,szagen@aol.com,D00019
+201-555-2514,Deandrea,Hughey,NC,12.0,27215,2021-11-15,3,990,0.0,6500,7490.0,True,False,True,False,2021,USD,33 Lewis Rd #46,Burlington,Alamance,336-822-7652,deandrea@yahoo.com,D00020
+201-825-4514,Lisa,Duenas,KS,3.0,67601,2021-9-24,3,1330,0.0,3500,4830.0,True,False,False,False,2021,USD,8100 Jacksonville Rd,Hays,Ellis,785-629-8543,lisa_duenas@yahoo.com,D00021
+266-825-2514,Clara,Jackson,CO,3.0,80212,2021-3-21,2,1300,0.85,5500,7905.0,True,True,True,True,2021,USD,44th Ave,Denver,Denver,208-709-1235,jackson_clara@aol.com,D00022
+201-825-0099,Martina,Abrams,FL,38.0,32822,2021-9-19,2,800,0.0,5500,6300.0,False,False,True,True,2021,USD,7 W Wabansia Ave #227,Orlando,Orange,407-471-6908,martina_abrams@staback.com,D00023
+789-825-2514,Skye,Trent,MN,7.0,55401,2021-4-1,2,900,0.85,2500,4165.0,True,True,False,False,2021,USD,25 Minters Chapel Rd #9,Minneapolis,Hennepin,612-508-2655,skye_trent@yahoo.com,D00024
+440-579-7763,Emma,Werner,CA,37.0,90006,2022-1-7,1,970,0.0,5500,6470.0,False,False,False,True,2022,USD,2771 W Pico Blvd,Los Angeles,Los Angeles,440-780-8425,wer_emma@hpt.net,A00320
+956-841-7216,Zachary,Mcgrath,TN,9.5,38103,2022-1-28,2,500,0.0,4500,5000.0,True,False,True,True,2022,USD,201 Poplar Ave,Memphis,Shelby,956-537-6195,zacharym@gmail.com,A00321
+602-953-6360,Jay,Mcclain,FL,14.5,33125,2022-1-9,2,1190,0.0,2500,3690.0,True,False,False,False,2022,USA,1881 NW 7th St,Miami,Miami-Dade,602-277-4385,jay.mcciain@aol.com,A00322
+931-235-7959,Tyree,Mays,NY,16.5,10017,2022-1-1,1,1160,0.0,3500,4660.0,True,False,True,False,2022,USA,217 E 49th St,New York,New York,931-313-9635,mayst@hotmail.com,A00323
+414-377-2880,Wendy,Rogers,IN,3.5,46220,2022-1-9,2,1230,0.0,6500,7730.0,True,False,True,False,2022,USD,811 E Westfield Blvd,Indianapolis,Marion,414-661-9598,rogersw@rim.org,A00324
+313-341-4470,Rod,Harper,MO,6.5,64127,2022-1-11,1,1090,0.0,4500,5590.0,True,False,True,False,2022,USA,2645 Brooklyn Ave,Kansas City,Jackson,313-288-7937,harper_rod@aol.com,A00325
+815-426-5657,Lloyd,Potter,NV,1.5,89103,2022-1-22,1,1120,0.0,2500,3620.0,True,False,True,True,2022,USA,3505 S Valley View Blvd,Las Vegas,Clark,815-828-2147,potterl@yahoo.com,A00326
+610-492-4643,Kelly,Schroeder,PA,21.5,19014,2022-2-21        ,3,900,0.85,3500,5165.0,False,True,True,False,2022,USD,6 S 33rd St,Aston,Delaware,610-545-3615,kellys@hpt.net,A00327
+408-813-4592,Lamon,Stark,CA,34.5,95111,2022-2-13,3,1010,0.0,6500,7510.0,True,False,True,True,2022,USD,378 Greenleaf Ave,San Jose,Santa Clara,408-540-1785,starkla@aol.com,A00328
+972-896-4882,Manual,Stout,TX,29.5,75062,2022-2-6,2,930,0.0,6500,7430.0,True,False,True,False,2022,USA,618 W Yakima Ave,Irving,Dallas,972-303-9197,mstouk@hotmail.com,A00329
+518-448-8982,Ella,Elliott,NY,26.5,12204,2022-2-20,3,1000,0.0,3500,4500.0,True,False,False,True,2022,USA,74 S Westgate St,Albany,Albany,518-966-7987,elliott.el@yahoo.com,A00330
+732-635-3453,Bruce,Jefferson,NJ,32.5,8846,2022-2-9,2,660,0.0,6500,7160.0,True,False,False,False,2022,USA,3273 State St,Middlesex,Middlesex,732-658-3154,bruce.j@stp.edu,A00331
+715-530-9863,Benjamin,Rivas,WI,9.5,54481,2022-2-11,1,730,0.0,4500,5230.0,False,False,True,False,2022,USD,276 Central Ave,Stevens Point,Portage,715-662-6764,rivas_ben@hpt.net,A00332
+504-845-1427,Anthony,Zion,FL,46.5,33155,2022-1-4,1,610,0.0,3500,4110.0,False,False,False,False,2022,USA,4795 SW 75th Ave,Miami,Miami-Dade,504-621-8927,ziona@gmail.com,A00307
+810-374-9840,Peter,Montgomery,GA,4.5,30310,2022-1-29,1,1190,0.85,3500,5701.5,True,True,True,True,2022,USA,1163 Metropolitan Pkwy,Atlanta,Fulton,810-292-9388,peter_phine@aol.com,A00308
+336-477-9453,Alia,Lau,TX,3.5,78704,2022-1-28,3,1410,0.0,6500,7910.0,True,False,True,False,2022,USA,208 Barton Springs Rd,Austin,Travis,888-227-1460,laut@yahoo.com,A00309
+719-298-4547,Elvia,Ortiz,MD,7.5,21210,2022-1-16,3,1070,0.85,3500,5479.5,True,True,True,True,2022,USA,732 Deepdene Rd,Baltimore,Baltimore,907-385-4412,ortizE@hotmail.com,A00310
+606-203-9476,Chris,Carter,NC,4.5,28207,2022-1-10,3,1400,0.0,3500,4900.0,True,False,True,True,2022,USA,1361 Queens Rd,Charlotte,Mecklenburg,513-570-1893,chris_carter@hpt.net,A00311
+419-800-6759,Simona,Lee,IL,14.5,60661,2022-1-12,2,660,0.0,4500,5160.0,False,False,True,True,2022,USA,131 N Clinton St,Chicago,Cook,419-503-2484,simona@aol.com,A00312
+773-924-8565,Laura,Tollner,TX,18.5,75235,2022-1-6,3,1200,0.85,4500,6720.0,True,True,True,True,2022,USA,6124 Denton Dr,Dallas,Dallas,773-573-6914,laura_tollner@yahoo.com,A00313
+408-813-1105,Leota,Atari,FL,20.0,33130,2022-1-19,1,1110,0.0,3500,4610.0,True,False,False,False,2022,USD,101 W Flagler St,Miami,Miami-Dade,408-752-3500,leota@hotmail.com,A00314
+605-794-4895,Dan,Wieser,OH,4.5,45229,2022-1-7,3,1210,0.0,6500,7710.0,True,False,True,True,2022,USD,4150 Reading Rd,Cincinnati,Hamilton,605-414-2147,dan_wieser@stp.edu,A00315
+410-804-4694,Kris,Bond,MI,1.5,48214,2022-1-4,2,1410,0.0,5500,6910.0,True,False,True,False,2022,USA,3030 Fairview St,Detroit,Wayne,410-655-8723,kris@gmail.com,A00316
+215-422-8694,Alan,West,TN,6.5,38105,2022-1-2,1,970,0.0,2500,3470.0,False,False,False,False,2022,USD,920 Peach Ave,Memphis,Shelby,215-874-1229,alan_west@hotmail,A00317
+631-677-3675,Elena,Stephens,MO,1.5,64111,2022-1-8,2,1280,0.85,6500,8868.0,True,True,True,False,2022,USD,801 Westport Rd,Kansas City,Jackson,631-335-3414,elenas@gmail.com,A00318
+310-254-3084,Sonia,Jarvis,NV,4.5,89129,2022-1-25,1,830,0.0,2500,3330.0,True,False,False,False,2022,USD,9850 W Cheyenne Ave,Las Vegas,Clark,310-498-5651,sonia.jar@aol.com,A00319
+913-899-1103,Kristine,Levine,KS,4.5,66218,2022-2-19,3,1030,0.0,4500,5530.0,True,False,True,False,2022,USA,86 Nw 66th St #8,Shawnee,Johnson,913-388-2079,kristine@qa.org,A00333
+410-235-8738,Graham,Wise,MD,11.5,21601,2022-2-2,1,900,0.0,3500,4400.0,False,False,False,True,2022,USA,923 Cedar Ave #84,Easton,Talbot,410-669-1642,wiseg@aol.com,A00334
+212-934-5167,Mattie,Blackwell,NY,39.5,10011,2022-2-19,2,540,0.0,6500,7040.0,False,False,True,True,2022,USD,9099 Thorburn Ave,New York,New York,212-582-4976,blackwell_mat@yahoo.com,A00335
+936-597-3614,Billie,Webster,TX,8.5,77301,2022-2-2,2,1330,0.0,4500,5830.0,True,False,True,True,2022,USA,386 9th Ave N,Conroe,Montgomery,936-336-3951,websterb@aol.com,A00336
+614-648-3265,Dan,Brandt,OH,6.5,43215,2022-2-1,3,850,0.0,3500,4350.0,False,False,False,True,2022,USA,4874 Atlantic Ave,Columbus,Franklin,614-801-9788,dan.br@hotmail.com,A00337
+505-335-5293,Wilber,Norris,NM,1.5,88011,2022-2-20,3,1240,0.0,6500,7740.0,True,False,False,False,2022,USD,366 South Dr,Las Cruces,Dona Ana,505-977-3911,norrisw@gmail.com,A00338
+201-387-9093,Casey,Leon,NJ,5.0,7660,2022-2-4,3,1460,0.0,4500,5960.0,True,False,True,False,2022,USA,745 E Liberty St,Ridgefield Park,Bergen,201-709-6245,leonca@aol.com,A00339
+732-782-6701,Dannie,Henderson,NJ,16.5,8812,2022-2-12,2,930,0.85,4500,6220.5,True,True,True,True,2022,USA,457 Ralph Ct,Dunellen,Middlesex,732-924-7882,henderson_dan@yahoo.com,A00340
+212-753-2740,Jarvis,York,NY,4.5,10025,2022-2-9,2,1400,0.0,6500,7900.0,True,False,True,False,2022,USA,2742 Distribution Way,New York,New York,212-860-1579,york_jarvis@gmail.com,A00341
+504-265-8174,Whitney,Washington,LA,5.5,70002,2022-2-25,1,760,0.0,2500,3260.0,False,False,True,True,2022,USD,426 Wolf St,Metairie,Jefferson,504-979-9175,whitney_washington@hotmail.com,A00342
+212-569-4233,Kenton,Carlson,NY,14.0,10011,2022-2-2,2,1180,0.85,2500,4683.0,True,True,True,False,2022,USA,128 Bransten Rd,New York,New York,212-675-8570,kentonca@yahoo.com,A00343
+805-609-1531,Lela,Barry,CA,16.5,93012,2021-2-27,1,1390,0.0,4500,5890.0,True,False,False,True,2022,USA,617 Morena Blvd,Camarillo,Ventura,805-832-6163,lela.barry@aol.com,A00344
+210-300-6244,Valentine,Stanton,TX,20.5,78204,2021-2-8,2,1160,0.0,3500,4660.0,True,False,True,True,2022,USD,775 W 17th St,San Antonio,Bexar,210-812-9597,valentines@gmail.com,A00345
+785-219-7724,Kati,Burch,KS,6.5,67410,2022-2-18 ,2,950,0.0,4500,5450.0,False,False,False,False,2022,USA,6980 Dorsett Rd,Abilene,Dickinson,785-463-7829,bu@hotmail.com,A00346
+541-993-2611,Youlanda,Schemmer,OR,5.5,97754,2022-3-6,1,560,0.85,6500,7536.0,True,True,False,False,2022,USA,2881 Lewis Rd,Prineville,Crook,541-548-8197,youlanda@aol.com,A00347
+913-645-8918,Dyan,Oldroyd,KS,1.5,66204,2022-3-20,1,1380,0.0,4500,5880.0,True,False,False,False,2022,USD,7219 Woodfield Rd,Overland Park,Johnson,913-413-4604,doldroyd@aol.com,A00348
+907-335-6568,Roxane,Campain,AK,1.5,99708,2022-2-22,3,1170,0.0,4500,5670.0,True,False,True,False,2022,USD,1048 Main St,Fairbanks,North Star,907-231-4722,campain@aol.com,A00349
+305-995-2078,Lavera,Perin,FL,43.5,33196,2022-3-11,2,700,0.0,3500,4200.0,True,False,True,True,2022,USA,678 3rd Ave,Miami,Miami-Dade,305-606-7291,lperin@perin.org,A00350
+907-227-6777,Erick,Ferencz,AK,7.5,99712,2022-3-27,3,820,0.85,6500,8017.0,False,True,False,True,2022,USA,920 S Babcock St,Fairbanks,North Star,907-741-1044,ferencz@hotmail.com,A00351
+952-479-2375,Fatima,Saylors,MN,1.5,55343,2022-3-4,2,1430,0.85,5500,8145.5,True,True,False,False,2022,USD,743 Lighthouse Ave,Hopkins,Hennepin,952-768-2416,fsaylors@saylors.org,A00352
+617-997-5771,Jina,Briddick,MA,9.5,2128,2022-3-12,2,560,0.0,4500,5060.0,True,False,True,False,2022,USA,8938 Park Blvd,Boston,Suffolk,617-399-5124,jina_briddick@briddick.com,A00353
+323-315-7314,Kanisha,Waycott,CA,27.0,90006,2022-3-11,3,1160,0.0,5500,6660.0,True,False,True,True,2022,USA,Tomahawk Dr,Los Angeles,Los Angeles,323-453-2780,kanisha_waycott@yahoo.com,A00354
+608-658-7940,Emerson,Bowley,WI,5.5,53711,2022-3-19,2,1050,0.0,5500,6550.0,True,False,True,False,2022,USA,762 S Main St,Madison,Dane,608-336-7444,emerson.bowley@bowley.org,A00355
+215-794-4519,Blair,Malet,PA,17.0,19132,2022-3-21,1,1020,0.0,4500,5520.0,True,False,True,False,2022,USA,209 Decker Dr,Philadelphia,Philadelphia,215-907-9111,bmalet@yahoo.com,A00356
+212-617-5063,Brock,Bolognia,NY,35.5,10003,2022-3-9,3,710,0.0,4500,5210.0,True,False,True,True,2022,USA,4486 East Coast St,New York,New York,212-402-9216,bbolognia@yahoo.com,A00357
+931-303-6041,Lorrie,Nestle,TN,2.5,37388,2022-3-19,3,1120,0.85,3500,5572.0,True,True,True,True,2022,USA,39 S 7th St,Tullahoma,Coffee,931-875-6644,lnestle@hotmail.com,A00358
+803-681-3678,Sabra,Uyetake,SC,2.5,29201,2022-3-15,1,1040,0.0,3500,4540.0,True,False,False,True,2022,USD,8839 Hawthorne Blvd,Columbia,Richland,803-925-5213,sabra@uyetake.org,A00359
+610-379-7125,Marjory,Mastella,PA,13.5,19087,2022-3-24,1,1150,0.85,6500,8627.5,True,True,False,False,2022,USD,971 San Mateo Ave,Wayne,Delaware,610-814-5533,mmastella@mastella.com,A00360
+908-470-4661,Karl,Klonowski,NJ,35.5,8822,2022-3-3,1,610,0.0,4500,5110.0,False,False,False,True,2022,USD,76 Brooks St,Flemington,Hunterdon,908-877-6135,karl_klonowski@yahoo.com,A00361
+516-333-4861,Tonette,Wenner,NY,33.5,11590,2022-3-27,2,730,0.0,3500,4230.0,False,False,False,True,2022,USD,4545 Courthouse Rd,Westbury,Nassau,516-968-6051,twenner@aol.com,A00362
+215-329-6386,Amber,Monarrez,PA,7.5,19046,2022-3-2,3,1420,0.0,4500,5920.0,True,False,False,True,2022,USA,1928 Foster Ave,Jenkintown,Montgomery,215-934-8655,amber_monarrez@monarrez.org,A00363
+818-749-8650,Shenika,Seewald,CA,56.5,91405,2022-3-2,2,720,0.85,5500,6832.0,False,True,False,True,2022,USD,78 Otis St,Van Nuys,Los Angeles,818-423-4007,shenika@gmail.com,A00364
+401-559-8961,Arthur,Thomas,RI,1.5,2909,2022-3-3,2,920,0.85,6500,8202.0,True,True,True,True,2022,USD,6589 S 16th St,Providence,Providence,401-458-2547,arthur_thomas@hotmail.com,A00365
+215-417-9563,George,Carter,PA,23.5,19006,2022-3-19,1,840,0.85,6500,8054.0,True,True,True,False,2022,USD,1430 Pennsylvania Ave,Huntingdon Valley,Montgomery,215-211-9589,george_carter@gmail.com,A00366
+401-300-8122,Oliver,Gray,RI,3.5,2904,2022-3-11                 ,3,860,0.0,3500,4360.0,True,False,True,True,2022,USD,201 Hawk Ct,Providence,Providence,401-960-8259,oliver.gray@aol.com,A00367
+732-904-2931,Jamal,Schultz,NJ,22.0,8831,2022-4-4,2,890,0.0,6500,7390.0,False,False,True,True,2022,USD,3075 Sw 152nd Ter,Monroe Township,Middlesex,732-234-1546,jamalsc@vanalsdal.org,A00368
+512-861-3814,Cecily,Hollack,TX,31.5,78731,2022-4-3,3,920,0.0,4500,5420.0,False,False,True,True,2022,USD,859 N Groesbeck Hwy,Austin,Travis,512-486-3817,cecily@hollack.org,A00369
+303-874-5160,Carmelina,Lindall,CO,6.5,80126,2022-4-27,3,770,0.0,2500,3270.0,False,False,True,True,2022,USD,2664 Lewis Rd,Littleton,Douglas,303-724-7371,carmelina_lindall@lindall.com,A00370
+414-573-7719,Maurine,Yglesias,WI,2.5,53214,2022-4-4,3,1180,0.0,6500,7680.0,True,False,True,False,2022,USA,59 Shardy Ln,Milwaukee,Milwaukee,414-748-1374,maurine_yglesias@yglesias.com,A00371
+212-462-9157,Tawna,Buvens,NY,7.5,10009,2022-4-13,1,1380,0.0,3500,4880.0,True,False,True,True,2022,USA,3305 Nabell Ave,New York,New York,212-674-9610,tawna@gmail.com,A00372
+907-873-2882,Penney,Weight,AK,5.5,99515,2022-4-15,1,890,0.0,5500,6390.0,True,False,True,False,2022,USD,18 Fountain St,Anchorage,Anchorage,907-797-9628,penney_weight@aol.com,A00373
+814-420-3553,Elly,Morocco,PA,19.5,16502,2022-4-24,1,950,0.85,3500,5257.5,True,True,False,False,2022,USD,97 W 32nd St,Erie,Erie,814-393-5571,elly_morocco@gmail.com,A00374
+410-937-4543,Ilene,Robinson,MD,14.5,21215,2022-4-8,1,700,0.0,6500,7200.0,True,False,False,True,2022,USD,2853 Kains Ave,Baltimore,Baltimore City,410-914-9018,robinsonil@hotmail.com,A00375
+208-737-8439,Vallie,Mondella,ID,2.5,83707,2022-4-21,1,1410,0.0,5500,6910.0,True,False,True,True,2022,USD,74 W College St,Boise,Ada,208-862-5339,vmondella@mondella.com,A00376
+415-604-7609,Kallie,Blackwood,CA,3.5,94104,2022-4-20,2,1490,0.0,3500,4990.0,True,False,True,False,2022,USA,701 S Harrison Rd,San Francisco,San Francisco,415-315-2761,kallie.blackwood@gmail.com,A00377
+919-715-3791,Johnetta,Abdallah,NC,10.5,27514,2022-4-1,3,1040,0.85,2500,4424.0,True,True,False,False,2022,USD,1088 Pinehurst St,Chapel Hill,Orange,919-225-9345,johnetta_abdallah@aol.com,A00378
+650-811-9032,Bobbye,Smits,CA,39.5,94070,2022-4-21,3,940,0.0,3500,4440.0,False,False,False,False,2022,USA,30 W 80th St #1995,San Carlos,San Mateo,650-528-5783,bobbye.s@yahoo.com,A00379
+925-522-779,Micaela,Rhymes,CA,56.5,94520,2022-4-3,1,720,0.0,2500,3220.0,True,False,True,False,2022,USA,932 Hedley St,Concord,Contra Costa,925-647-3298,micaela_rhymes@gmail.com,A00380
+456-794-4519,Jim,Malet,PA,29.5,19132,2022-4-17,2,640,0.85,2500,3684.0,False,True,False,False,2022,USD,309 Decker Dr,Philadelphia,Philadelphia,456-907-9111,jim_malet@yahoo.com,A00381
+740-526-5410,Tamar,Hoogland,OH,14.5,43140,2022-4-14,2,640,0.0,6500,7140.0,False,False,True,True,2022,USA,2737 Pistorio Rd #9230,London,Madison,740-343-8575,tamar@hotmail.com,A00382
+585-498-4278,Luna,Ambelang,NY,22.5,14895,2022-4-4,1,1030,0.0,4500,5530.0,True,False,True,True,2022,USD,4989 Brandon St,Wellsville,Allegany,585-866-8313,luna_amb@yahoo.com,A00383
+410-957-6903,Laurel,Reitler,MD,16.5,21215,2022-4-17,1,640,0.0,3500,4140.0,False,False,False,False,2022,USD,984 Kains Ave,Baltimore,Baltimore City,410-520-4832,laurel_reitler@reitler.com,A00384
+973-847-9611,Delisa,Crupi,NJ,32.5,7105,2022-4-15,1,660,0.0,5500,6160.0,True,False,True,True,2022,USD,7565 W Grand Ave,Newark,Essex,973-354-2040,delisa.crupi@crupi.com,A00385
+773-352-3437,Viva,Toelkes,IL,3.0,60647,2022-4-9,3,1420,0.85,5500,8127.0,True,True,True,True,2022,USD,4284 Dorigo Ln,Chicago,Cook,773-446-5569,viva.toelkes@gmail.com,A00386
+973-796-3667,Elza,Lipke,NJ,19.0,7104,2022-4-18,3,910,0.0,6500,7410.0,False,False,True,False,2022,USA,6794 Lake Dr E,Newark,Essex,973-927-3447,elza@yahoo.com,A00387
+505-950-1763,Devorah,Garrison,NM,3.5,88101,2022-4-7                         ,1,690,0.85,3500,4776.5,False,True,True,True,2022,USA,31 Douglas Blvd #950,Clovis,Curry,505-975-8559,devorah@hotmail.com,A00388
+718-654-7063,Timothy,Mulqueen,NY,37.5,10309,2022-5-29,3,690,0.0,5500,6190.0,True,False,True,True,2022,USD,44 W 4th St,Staten Island,Richmond,718-332-6527,timothy_mulqueen@mulqueen.org,A00389
+904-514-9918,Arlette,Honeywell,FL,3.0,32254,2022-5-10,1,1470,0.0,5500,6970.0,True,False,False,True,2022,USD,11279 Loytan St,Jacksonville,Duval,904-775-4480,ahoneywell@honeywell.com,A00390
+510-901-7640,Dominque,Dickerson,CA,30.0,94545,2022-5-9,3,1140,0.0,6500,7640.0,True,False,True,True,2022,USD,69 Marquette Ave,Hayward,Alameda,510-993-3758,dominque.dickerson@dickerson.org,A00391
+216-733-8494,Lettie,Isenhower,OH,10.5,44122,2022-5-9,3,700,0.0,4500,5200.0,True,False,True,False,2022,USD,70 W Main St,Beachwood,Cuyahoga,216-657-7668,lettie_isenhower@yahoo.com,A00392
+817-451-3518,Myra,Munns,TX,26.5,76040,2022-5-20,1,1000,0.0,3500,4500.0,True,False,False,False,2022,USD,461 Prospect Pl #316,Euless,Tarrant,817-914-7518,mmunns@cox.net,A00393
+310-968-1219,Stephaine,Barfield,CA,62.5,90247,2022-5-14,2,650,0.0,5500,6150.0,False,False,True,True,2022,USA,47154 Whipple Ave Nw,Gardena,Los Angeles,310-774-7643,stephaine@barfield.com,A00394
+847-957-4614,Lai,Gato,IL,7.5,60201,2022-5-26,3,1100,0.85,3500,5535.0,True,True,False,True,2022,USA,37 Alabama Ave,Evanston,Cook,847-728-7286,lai.gato@gato.org,A00395
+330-700-2312,Stephen,Emigh,OH,1.5,44302,2022-5-16,1,1450,0.0,2500,3950.0,True,False,False,True,2022,USA,3777 E Richmond St #900,Akron,Summit,330-537-5358,stephen_emigh@hotmail.com,A00396
+215-228-8264,Tyra,Shields,PA,5.5,19106,2022-5-25,2,1450,0.0,2500,3950.0,True,False,False,True,2022,USD,562 Fort Worth Ave,Philadelphia,Philadelphia,215-255-1641,tshields@gmail.com,A00397
+650-216-5075,Tammara,Wardrip,CA,3.5,94010,2022-5-18,2,1490,0.0,4500,5990.0,True,False,False,False,2022,USD,4800 Black Horse Pike,Burlingame,San Mateo,650-803-1936,twardrip@cox.net,A00398
+626-696-2777,Cory,Gibes,CA,51.5,91776,2022-5-13,1,770,0.0,3500,4270.0,True,False,True,False,2022,USD,83649 W Belmont Ave,San Gabriel,Los Angeles,626-572-1096,cory.gibes@gmail.com,A00399
+254-205-1422,Danica,Bruschke,TX,11.5,76708,2022-5-18,1,1300,0.0,2500,3800.0,True,False,False,False,2022,USD,840 15th Ave,Waco,McLennan,254-782-8569,danica_bruschke@gmail.com,A00400
+907-914-9482,Wilda,Giguere,AK,3.5,99501,2022-5-17,1,1140,0.85,5500,7609.0,True,True,False,True,2022,USA,1747 Calle Amanecer #2,Anchorage,Anchorage,907-870-5536,wilda@cox.net,A00401
+408-440-8447,Elvera,Benimadho,CA,11.5,95110,2022-5-5,1,1420,0.0,2500,3920.0,True,False,False,True,2022,USD,9385 Charity St #840,San Jose,Santa Clara,408-703-8505,elvera.benimadho@cox.net,A00402
+510-452-4835,Carma,Vanheusen,CA,8.5,94577,2022-5-8,1,1430,0.0,4500,5930.0,True,False,False,False,2022,USA,8556 Central Hwy,San Leandro,Alameda,510-503-7169,carma@cox.net,A00403
+317-472-2412,Malinda,Hochard,IN,1.5,46202,2022-5-22,3,1310,0.0,2500,3810.0,True,False,True,False,2022,USD,955 Riverside Ave,Indianapolis,Marion,317-722-5066,malinda.hochard@yahoo.com,A00404
+307-279-3793,Natalie,Fern,WY,2.5,82901,2022-5-10,1,1090,0.85,6500,8516.5,True,True,False,False,2022,USD,7140 University Ave,Rock Springs,Sweetwater,307-704-8713,natalie.fern@hotmail.com,A00405
+703-475-7568,Lisha,Centini,VA,2.5,22102,2022-5-5,3,1120,0.0,2500,3620.0,True,False,True,True,2022,USD,64 5th Ave #1153,Mc Lean,Fairfax,703-235-3937,lisha@centini.org,A00406
+504-946-1807,Arlene,Klusman,LA,1.5,70112,2022-5-21,2,1440,0.85,4500,7164.0,True,True,False,False,2022,USA,483 Secor Rd,New Orleans,Orleans,504-710-5840,arlene_klusman@gmail.com,A00407
+303-521-9860,Alease,Buemi,CO,3.0,80303,2022-5-23,3,1300,0.0,5500,6800.0,True,False,False,False,2022,USD,952 Webbs Chapel Rd,Boulder,Boulder,303-301-4946,alease@buemi.com,A00408
+510-472-7758,Louisa,Cronauer,CA,42.0,94577,2022-5-19,1,930,0.0,5500,6430.0,True,False,True,True,2022,USD,524 Louisiana Ave Nw,San Leandro,Alameda,510-828-7047,louisa@cronauer.com,A00409
+808-475-2310,Angella,Cetta,HI,5.5,96817,2022-5-10      ,2,690,0.0,5500,6190.0,True,False,True,True,2022,USD,185 Blackstone Bldge,Honolulu,Honolulu,808-892-7943,angella.cetta@hotmail.com,A00410
+952-938-9457,Cyndy,Goldammer,MN,5.5,55337,2022-6-15,3,1150,0.85,6500,8627.5,True,True,True,True,2022,USD,170 Wyoming Ave,Burnsville,Dakota,952-334-9408,cgoldammer@cox.net,A00411
+336-497-4407,Rosio,Cork,NC,7.5,27263,2022-6-20,3,1270,0.0,5500,6770.0,True,False,True,True,2022,USD,10th St W,High Point,Guilford,336-243-5659,rosio.cork@gmail.com,A00412
+516-365-7266,Celeste,Korando,NY,29.0,11563,2022-6-25,1,920,0.0,6500,7420.0,False,False,False,True,2022,USD,854 W Pinhook Rd,Lynbrook,Nassau,516-509-2347,ckorando@hotmail.com,A00413
+503-909-7167,Twana,Felger,OR,7.5,97224,2022-6-18,3,540,0.0,3500,4040.0,True,False,True,False,2022,USA,274 Commerce Way,Portland,Washington,503-939-3153,twana.felger@felger.org,A00414
+608-942-8836,Estrella,Samu,WI,7.5,53511,2022-6-1,2,960,0.0,5500,6460.0,True,False,False,False,2022,USA,64 Lakeview Ave,Beloit,Rock,608-976-7199,estrella@aol.com,A00415
+508-843-1426,Donte,Kines,MA,6.5,1602,2022-6-6,3,890,0.0,3500,4390.0,False,False,True,False,2022,USA,764 Aspen St,Worcester,Worcester,508-429-8576,dkines@hotmail.com,A00416
+305-304-6573,Tiffiny,Steffens,FL,36.5,33133,2022-6-21,2,840,0.85,3500,5054.0,True,True,True,False,2022,USD,346 Sierra Rd,Miami,Miami-Dade,305-385-9695,tiffiny_steffens@cox.net,A00417
+814-299-2877,Edna,Micel,PA,26.5,16502,2022-6-23,1,740,0.0,6500,7240.0,False,False,False,True,2022,USD,555 Main St,Erie,Erie,814-460-2655,emiceli@miceli.org,A00418
+972-742-4000,Sue,Kownacki,TX,23.0,75149,2022-6-19,1,1100,0.0,3500,4600.0,True,False,False,True,2022,USD,654 Se 3rd Ave,Mesquite,Dallas,972-666-3413,sue.kow@aol.com,A00419
+931-739-1551,Jenna,Shin,MO,10.5,63103,2022-6-11,1,700,0.85,3500,4795.0,True,True,False,False,2022,USD,1415 Olive St,Saint Louis,Saint Louis,931-273-8709,jenna_shin@shin.com,A00420
+973-284-4048,Rolland,Francescon,NJ,2.5,7501,2022-6-29,1,1490,0.85,4500,7256.5,True,True,True,False,2022,USD,2726 Charcot Ave,Paterson,Passaic,973-649-2922,rolland@cox.net,A00421
+305-575-8481,Pamella,Schmierer,FL,3.0,33030,2022-6-16,3,1470,0.0,6500,7970.0,True,False,False,False,2022,USD,5161 Dorsett Rd,Homestead,Miami-Dade,305-420-8970,pamella.schmierer@scr.org,A00422
+410-916-8015,Glory,Kulzer,MD,5.5,21117,2022-6-18,2,1200,0.85,2500,4720.0,True,True,False,False,2022,USD,55892 Jacksonville Rd,Owings Mills,Baltimore,410-224-9462,gkulzer@kulzer.org,A00423
+805-638-6617,Shawna,Palaspas,CA,14.0,91362,2022-6-10,1,1410,0.0,2500,3910.0,True,False,True,False,2022,USD,732 N Cleveland Massillon Rd,Thousand Oaks,Ventura,805-275-3566,shawna_palaspas@hotmail.com,A00424
+808-240-5168,Brandon,Callaro,HI,3.5,96819,2022-6-6,1,830,0.0,2500,3330.0,True,False,False,True,2022,USD,964 Benton Dr,Honolulu,Honolulu,808-215-6832,brandon_callaro@hotmail.com,A00425
+229-365-9658,Scarlet,Cartan,GA,1.5,31701,2022-6-22,3,1450,0.0,4500,5950.0,True,False,False,True,2022,USD,9390 S Howell Ave,Albany,Dougherty,229-735-3378,scarlet.cartan@yahoo.com,A00426
+617-697-6024,Oretha,Menter,MA,2.5,2210,2022-6-10,3,1090,0.0,5500,6590.0,True,False,False,True,2022,USA,835 County Center Dr #647,Boston,Suffolk,617-418-5043,oretha_menter@yahoo.com,A00427
+201-995-3149,Tessa,Smith,NJ,28.5,7601,2022-6-15,3,690,0.85,5500,6776.5,False,True,False,True,2022,USD,4646 Kaahumanu St,Hackensack,Bergen,201-672-1553,tsmith@aol.com,A00428
+650-247-2625,Xuan,Rochin,CA,19.5,94403,2022-6-25,1,1370,0.0,4500,5870.0,True,False,False,False,2022,USD,840 Monroe St,San Mateo,San Mateo,650-933-5072,xuan@gmail.com,A00429
+909-589-1693,Lindsey,Dilello,CA,60.5,91761,2022-6-8,1,660,0.0,6500,7160.0,False,False,False,False,2022,USD,2777 Leaders Heights Rd,Ontario,San Bernardino,909-639-9887,lindsey.dilello@hotmail.com,A00430
+378-938-7262,Iris,Griffin,NV,6.5,89121,2022-6-21,3,740,0.0,6500,7240.0,False,False,False,True,2022,USD,2655 E Desert Inn Rd,Las Vegas,Clark,785-347-1805,griffin_iris@yahool.com,A00431
+578-938-7262,Lanna,Cross,MO,4.5,64106,2022-6-11,2,1140,0.0,4500,5640.0,True,False,False,True,2022,USD,615 E 13th St,Kansas City,Jackson,916-920-3571,lanna_cross@aol.com,A00432
+370-338-7262,Elbert,Sampson,GA,7.5,30303,2022-6-10,1,990,0.0,4500,5490.0,True,False,True,True,2022,USD,130 Peachtree,Atlanta,Fulton,386-248-4118,sampson.el@gmail.com,A00433
+378-938-4562,Doyle,Chen,TX,1.5,77008,2022-6-10,2,1460,0.0,2500,3960.0,True,False,False,False,2022,USA,1127 N Shepherd Dr,Houston,Harris,202-646-7516,chendoy@kmg.edu,A00434
+376-376-0089,Jonas,Chambers,IL,12.0,60620,2022-6-13,2,760,0.85,3500,4906.0,False,True,True,True,2022,USD,8058 S Halsted St,Chicago,Cook,415-423-3294,chambers_jon@gmail.com,A00435
+378-222-7262,Annette,Mays,IL,9.5,60661,2022-6-1,3,1070,0.85,5500,7479.5,True,True,False,False,2022,USD,2210 W Taylor St,Chicago,Cook,659-973-1415,maysane@aol.com,A00436
+378-222-1492,Lavern,Vaughan,FL,20.0,33125,2022-6-26,1,1110,0.0,5500,6610.0,True,False,False,True,2022,USA,1881 NW 7th St,Miami,Miami-Dade,350-936-9795,lavern@yahoo.com,A00437
+378-333-7262,Freida,Levine,TX,38.5,75211,2022-6-2,2,730,0.0,5500,6230.0,False,False,True,False,2022,USA,4230 W Illinois Ave,Dallas,Dallas,240-549-5397,levie_fre@htp.edu,A00438
+378-244-7262,Krista,Gray,TN,2.5,38103,2022-6-21,2,1120,0.0,3500,4620.0,True,False,True,True,2022,USD,201 Poplar Ave,Memphis,Shelby,781-290-6913,gray.kris@hotmail.com,A00439
+399-222-7262,Donna,Avila,TX,40.5,77076,2022-6-11,1,640,0.0,5500,6140.0,True,False,True,True,2022,USA,203 E Little York Rd,Houston,Harris,483-626-9332,avila_donna@aol.com,A00440
+378-999-7262,Alma,Medina,AZ,4.5,85016,2022-6-11,3,950,0.0,2500,3450.0,False,False,True,True,2022,USD,2210 E Monte Vista,Phoenix,Maricopa,518-511-6591,medina_alma@yahoo.com,A00441
+378-261-7262,Newton,Donovan,MO,12.5,63112,2022-6-17,2,630,0.85,2500,3665.5,True,True,True,True,2022,USD,5595 Grand Dr,St Louis,St.Louis,793-231-3799,donovan@learn.org,A00442
+378-704-7262,Gina,Sellers,AZ,2.5,85029,2022-6-21,3,1250,0.0,5500,6750.0,True,False,False,True,2022,USD,11051 N Black Canyon Hwy,Phoenix,Maricopa,286-679-1652,sellersg@hotmail.com,A00443
+178-285-7262,Eliseo,Charles,PA,9.5,19104,2022-6-10,2,1390,0.0,6500,7890.0,True,False,True,False,2022,USD,4021 Parkside Ave,Philadelphia,Philadelphia,255-306-5075,charles.eli@htp.edu,A00444
+376-376-0089,Jonas,Chambers,IL,12.0,60620,2022-6-13,2,760,0.85,3500,4906.0,False,True,True,True,2022,USD,8058 S Halsted St,Chicago,Cook,415-423-3294,chambers.jon@gmail.com,A00435
+778-322-7262,Alan,Burns,FL,31.5,32801,2022-6-19,2,980,0.85,5500,7313.0,True,True,False,True,2022,USD,101 E Central Blvd,Orlando,Orange,870-703-0178,burns_alan@aol.com,A00445
+249-347-4232,Toby,Taylor,TX,14.0,78701,2022-6-8,2,1280,0.85,3500,5868.0,True,True,True,False,2022,USA,E 7th St,Austin,Travis,422-373-0780,toby_taylor@gmail.com,A00446
+709-216-6994,Adam,Snow,TX,16.5,78701,2022-6-9  ,2,1230,0.0,2500,3730.0,True,False,True,False,2022,USA,903 San Jacinto Blvd,Austin,Travis,484-683-4265,adam_s62@yahoo.com,A00447
+494-757-8440,Donald,Alvarado,MD,9.5,21230,2022-6-20,2,1020,0.0,5500,6520.0,True,False,False,False,2022,USA,2921 Stranden Rd,Baltimore,Baltimore,403-426-0936,donald_alv@gmail.com,A00448
+344-548-2646,Iris,Campbell,NC,2.5,28202,2022-6-11,1,1430,0.0,2500,3930.0,True,False,True,False,2022,USA,222 E 3rd St,Charlotte,Mecklenburg,327-887-5941,iris49@gmail.com,A00449
+927-253-7911,Lea,Pittman,NC,13.5,28217,2022-6-15,3,910,0.85,5500,7183.5,True,True,False,True,2022,USA,4800 S Tryon St,Charlotte,Mecklenburg,664-378-7149,lea_pittman@hotmail.com,A00450
+327-551-5941,Charlene,Hamilton,CA,6.0,95407,2022-1-14,3,1470,0.0,6500,7970.0,True,False,False,False,2022,USD,985 E 6th Ave,Santa Rosa,Sonoma,707-300-1771,charlene.hamilton@hotmail.com,D00448
+327-887-5941,Geoffrey,Smith,IL,1.0,60067,2022-1-27,2,1630,0.0,2500,4130.0,True,False,True,False,2022,USD,7 West Ave #1,Palatine,Cook,847-222-1734,geoffrey@gmail.com,D00449
+327-887-7441,Stevie,Westerbeck,CA,53.5,92626,2022-1-8   ,2,760,0.0,5500,6260.0,True,False,True,False,2022,USD,26659 N 13th St,Costa Mesa,Orange,949-867-4077,stevie.westerbeck@yahoo.com,D00450
+327-887-6641,Pamella,Fortino,CO,5.0,80212,2022-2-13,1,1170,0.0,4500,5670.0,True,False,False,True,2022,USA,669 Packerland Dr #1438,Denver,Denver,303-404-2210,pamella@fortino.com,D00451
+327-333-5941,Harrison,Haufler,CT,4.0,6515,2022-12-2,2,1090,0.0,6500,7590.0,True,False,True,True,2022,USD,759 Eldora St,New Haven,New Haven,203-801-6193,hhaufler@hotmail.com,D00452
+388-887-5941,Johnna,Engelberg,WA,3.0,98021,2022-2-17,2,880,0.0,5500,6380.0,False,False,False,True,2022,USD,5 S Colorado Blvd,Bothell,Snohomish,425-986-7573,jengelberg@engelberg.org,D00453
+478-087-5941,Buddy,Cloney,OH,3.0,44136,2022-2-9,3,1270,0.0,2500,3770.0,True,False,False,True,2022,USD,944 Gaither Dr,Strongsville,Cuyahoga,440-989-5826,buddy.cloney@yahoo.com,D00454
+327-087-7741,Dalene,Riden,NH,1.0,3865,2022-12-5,1,1510,0.0,6500,8010.0,True,False,True,True,2022,USD,66552 Malone Rd,Plaistow,Rockingham,603-315-6839,dalene.riden@aol.com,D00455
+300-867-5941,Jerry,Zurcher,FL,8.0,32937,2022-2-16,3,1310,0.0,4500,5810.0,True,False,True,True,2022,USD,77 Massillon Rd #822,Satellite Beach,Brevard,321-518-5938,jzurcher@zurcher.org,D00456
+327-012-5941,Haydee,Denooyer,NY,25.0,10016,2022-2-6,1,1020,0.0,6500,7520.0,True,False,True,False,2022,USD,25346 New Rd,New York,New York,212-792-8658,hdenooyer@denooyer.org,D00457
+327-887-5141,Joseph,Cryer,CA,25.0,92647,2022-2-13,2,1180,0.0,6500,7680.0,True,False,True,False,2022,USD,60 Fillmore Ave,Huntington Beach,Orange,714-584-2237,joseph_cryer@cox.net,D00458
+307-877-5941,Deonna,Kippley,MI,5.0,48075,2022-2-9,2,1050,0.0,4500,5550.0,True,False,True,False,2022,USD,57 Haven Ave #90,Southfield,Oakland,248-913-4677,deonna_kippley@hotmail.com,D00459
+327-800-5941,Raymon,Calvaresi,IN,5.0,46222,2022-2-27,2,1190,0.85,5500,7701.5,True,True,False,False,2022,USD,6538 E Pomona St #60,Indianapolis,Marion,317-825-4724,raymon.calvaresi@gmail.com,D00460
+327-811-5941,Alecia,Bubash,TX,25.0,76301,2022-2-21,1,1070,0.0,6500,7570.0,True,False,False,True,2022,USD,6535 Joyce St,Wichita Falls,Wichita,940-276-7922,alecia@aol.com,D00461
+388-887-5941,Marta,Layous,CT,1.0,6473,2022-2-22,1,1650,0.85,5500,8552.5,True,True,True,False,2022,USD,78112 Morris Ave,North Haven,New Haven,203-721-3388,mlayous@hotmail.com,D00462
+370-887-2941,Detra,Coyier,MD,1.0,21001,2022-2-4,1,1540,0.0,3500,5040.0,True,False,False,False,2022,USD,96950 Hidden Ln,Aberdeen,Harford,410-739-9543,detra@aol.com,D00463
+555-887-5941,Terrilyn,Rodeigues,LA,3.0,70130,2022-2-4,2,1320,0.0,2500,3820.0,True,False,False,False,2022,USD,3718 S Main St,New Orleans,Orleans,504-463-4384,terrilyn.rodeigues@cox.net,D00464
+388-087-5731,Salome,Lacovara,VA,1.0,23219,2022-2-25,1,1180,0.0,3500,4680.0,True,False,False,True,2022,USD,9677 Commerce Dr,Richmond,Richmond City,804-550-5097,slacovara@gmail.com,D00465
+326-410-5941,Garry,Keetch,PA,1.0,18966,2022-2-27,2,1630,0.0,2500,4130.0,True,False,True,False,2022,USD,5 Green Pond Rd #4,Southampton,Bucks,215-979-8776,garry_keetch@hotmail.com,D00466
+327-777-594,Matthew,Neither,MN,9.0,55379,2022-2-24,2,820,0.85,3500,5017.0,False,True,False,False,2022,USD,636 Commerce Dr #42,Shakopee,Scott,952-651-7597,1mneither@yahoo.com,D00467
+327-887-4341,Theodora,Restrepo,FL,25.5,33136,2022-2-12,2,1060,0.85,5500,7461.0,True,True,False,True,2022,USD,42744 Hamann Industrial Pky #82,Miami,Miami-Dade,305-936-8226,theodora.res@restrepo.com,D00468
+660-737-5941,Noah,Kalafatis,WI,1.0,53209,2022-2-24,1,1220,0.0,2500,3720.0,True,False,True,False,2022,USD,1950 5th Ave,Milwaukee,Milwaukee,414-263-5287,noah.kalafatis@aol.com,D00469
+327-333-0941,Carmen,Sweigard,NJ,1.0,8873,2022-2-4,1,1560,0.0,3500,5060.0,True,False,True,False,2022,USD,61304 N French Rd,Somerset,Somerset,732-941-2621,csweigard@sweigard.com,D00470
+327-555-5941,Lavonda,Henges,ND,1.0,58102,2022-2-2,3,1190,0.85,5500,7701.5,True,True,False,True,2022,USD,87 Imperial Ct #79,Fargo,Cass,701-898-2154,lavonda@cox.net,D00471
+645-537-2262,Edgar,Gallagher,MD,2.5,21210,2022-6-1,2,1470,0.0,6500,7970.0,True,False,True,False,2022,USD,121 Mcmechen St,Baltimore,Baltimore,439-664-8344,edgar_gal@hotmail.com,A00451
