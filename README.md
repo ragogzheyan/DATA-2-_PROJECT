@@ -1,3 +1,5 @@
+## Resort Business Analysis
+
 ### Instruction to Run Program 
 
     ➢ Open CMD module
@@ -22,7 +24,9 @@
     ❖ Set up a local database and read data in with SQLite
     ❖ Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data. 
     ❖ Utilize a virtual environment and include instructions in your README on how the user should set one up 
-    ❖ Annotate your code with markdown cells in Jupiter Notebook 
+    ❖ Annotate your code with markdown cells in Jupiter Notebook
+
+
 
 
 Business Overview:
